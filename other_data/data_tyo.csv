@@ -1,0 +1,1195 @@
+Airline,Departure,Arrival,price,Duration,Stops,Departure Time,Arrival Time,Day of the Week,Day of the Month
+Qatar Airways,Berlin (BER),Tokyo (NRT),702,1530,1,10:05,18:35,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1255,2,09:45,13:40,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1315,2,08:45,13:40,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1345,2,08:15,13:40,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1375,2,07:45,13:40,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1400,2,09:45,16:05,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1435,2,06:45,13:40,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1195,2,10:45,13:40,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1340,2,10:45,16:05,Tuesday,01/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),770,1135,1,16:40,18:35,Tuesday,01/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),800,1390,2,06:55,13:05,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1185,2,19:50,22:35,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1305,2,17:50,22:35,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1190,2,19:45,22:35,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1250,2,18:45,22:35,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),884,1290,2,08:45,13:15,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),884,1320,2,08:15,13:15,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1210,2,10:45,13:55,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1270,2,09:45,13:55,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1330,2,08:45,13:55,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1360,2,08:15,13:55,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1390,2,07:45,13:55,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1280,2,08:45,13:05,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1310,2,08:15,13:05,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1340,2,07:45,13:05,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),998,1175,2,14:45,17:20,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),998,1235,2,13:45,17:20,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1060,1215,2,09:50,13:05,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1060,1275,2,08:50,13:05,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1060,1365,2,07:20,13:05,Tuesday,01/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (NRT),1125,945,1,10:40,09:25,Tuesday,01/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1010,1,19:35,19:25,Tuesday,01/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (NRT),1125,1165,1,07:00,09:25,Tuesday,01/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1290,1,14:55,19:25,Tuesday,01/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1545,1,10:40,19:25,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1131,1400,2,06:15,12:35,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1153,1280,2,10:45,15:05,Tuesday,01/08/2023
+Scandinavian Airlines,Berlin (BER),Tokyo (HND),1211,1660,1,21:15,07:55,Tuesday,01/08/2023
+Air France,Berlin (BER),Tokyo (HND),1253,1585,1,20:30,05:55,Tuesday,01/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1256,1735,1,20:40,08:35,Tuesday,01/08/2023
+KLM,Berlin (BER),Tokyo (HND),1283,1575,2,20:40,05:55,Tuesday,01/08/2023
+Japan Airlines,Berlin (BER),Tokyo (NRT),1289,1010,1,13:15,13:05,Tuesday,01/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,1055,1,13:15,13:50,Tuesday,01/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1298,1130,2,14:30,16:20,Tuesday,01/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1298,1265,2,12:15,16:20,Tuesday,01/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (NRT),1307,1010,1,09:00,08:50,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,860,1,10:50,08:10,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,920,1,09:50,08:10,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,980,1,08:50,08:10,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,900,1,11:45,09:45,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,960,1,10:45,09:45,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,1020,1,09:45,09:45,Tuesday,01/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),1313,1020,1,09:45,09:45,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1333,1060,1,14:35,15:15,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1333,1190,1,12:25,15:15,Tuesday,01/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1512,760,1,13:15,08:55,Tuesday,01/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,760,1,13:15,08:55,Tuesday,01/08/2023
+Finnair,Berlin (BER),Tokyo (NRT),1519,1010,1,13:15,13:05,Tuesday,01/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1020,1,08:55,08:55,Tuesday,01/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1055,1,13:15,13:50,Tuesday,01/08/2023
+Finnair,Berlin (BER),Tokyo (NRT),1519,1270,1,08:55,13:05,Tuesday,01/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1315,1,08:55,13:50,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1524,760,1,13:15,08:55,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1590,1010,1,13:15,13:05,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,760,1,13:15,08:55,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,1020,1,08:55,08:55,Tuesday,01/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1025,1,07:05,07:10,Tuesday,01/08/2023
+Air France,Berlin (BER),Tokyo (HND),1633,1050,1,18:00,18:30,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1784,1095,1,06:40,07:55,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),2028,1235,2,08:50,12:25,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),2028,1285,2,08:50,13:15,Tuesday,01/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),2028,1325,2,07:20,12:25,Tuesday,01/08/2023
+Air France,Berlin (BER),Tokyo (NRT),2235,1150,1,06:15,08:25,Tuesday,01/08/2023
+Swiss International Air Lines,Berlin (BER),Tokyo (NRT),2550,1755,1,20:30,08:45,Tuesday,01/08/2023
+Austrian Airlines,Berlin (BER),Tokyo (NRT),2551,875,1,11:15,08:50,Tuesday,01/08/2023
+Lufthansa,Berlin (BER),Tokyo (HND),2551,860,1,10:50,08:10,Tuesday,01/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Tuesday,01/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,860,1,17:45,15:05,Tuesday,01/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,1340,1,09:45,15:05,Tuesday,01/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),526,1345,1,09:35,15:00,Wednesday,02/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),627,1610,2,09:35,19:25,Wednesday,02/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),669,2565,2,09:35,11:20,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1185,2,10:55,13:40,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1265,2,09:35,13:40,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1330,2,10:55,16:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1410,2,09:35,16:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1420,2,07:00,13:40,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1565,2,07:00,16:05,Wednesday,02/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),697,980,1,19:10,18:30,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),746,1200,2,10:55,13:55,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),746,1280,2,09:35,13:55,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),746,1435,2,07:00,13:55,Wednesday,02/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),837,1135,1,16:40,18:35,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),838,1290,2,08:45,13:15,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),838,1320,2,08:15,13:15,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),838,1350,2,07:45,13:15,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),838,1410,2,06:45,13:15,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),839,1215,2,09:50,13:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),839,1425,2,06:20,13:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),845,1280,2,08:45,13:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),845,1310,2,08:15,13:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),845,1340,2,07:45,13:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),845,1400,2,06:45,13:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1425,2,15:50,22:35,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1190,2,19:45,22:35,Wednesday,02/08/2023
+Singapore Airlines,Berlin (BER),Tokyo (NRT),933,1495,1,09:35,17:30,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),933,1455,2,06:00,13:15,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),998,1175,2,14:45,17:20,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),998,1235,2,13:45,17:20,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),998,1395,2,14:45,21:00,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1007,1400,2,06:15,12:35,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1021,1265,2,16:55,21:00,Wednesday,02/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1010,1,19:35,19:25,Wednesday,02/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1290,1,14:55,19:25,Wednesday,02/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1405,1,13:00,19:25,Wednesday,02/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1545,1,10:40,19:25,Wednesday,02/08/2023
+Scandinavian Airlines,Berlin (BER),Tokyo (HND),1211,1660,1,21:15,07:55,Wednesday,02/08/2023
+Air France,Berlin (BER),Tokyo (HND),1253,1000,1,06:15,05:55,Wednesday,02/08/2023
+Air France,Berlin (BER),Tokyo (HND),1253,1050,1,18:00,18:30,Wednesday,02/08/2023
+Air France,Berlin (BER),Tokyo (HND),1253,1400,1,12:10,18:30,Wednesday,02/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1256,990,1,09:05,08:35,Wednesday,02/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1256,1175,1,06:00,08:35,Wednesday,02/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,760,1,13:15,08:55,Wednesday,02/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,1055,1,13:15,13:50,Wednesday,02/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (NRT),1311,960,1,18:45,17:45,Wednesday,02/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1333,920,1,16:55,15:15,Wednesday,02/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1333,1005,1,11:10,10:55,Wednesday,02/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1333,1265,1,11:10,15:15,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1438,1120,1,12:10,13:50,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1438,1475,1,06:15,13:50,Wednesday,02/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,760,1,13:15,08:55,Wednesday,02/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1020,1,08:55,08:55,Wednesday,02/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1055,1,13:15,13:50,Wednesday,02/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1315,1,08:55,13:50,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1525,1200,2,13:15,16:15,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,760,1,13:15,08:55,Wednesday,02/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1005,1,07:25,07:10,Wednesday,02/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1005,1,11:10,10:55,Wednesday,02/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1230,1,07:25,10:55,Wednesday,02/08/2023
+Air France,Berlin (BER),Tokyo (HND),1633,1585,1,20:30,05:55,Wednesday,02/08/2023
+Swiss International Air Lines,Berlin (BER),Tokyo (NRT),2550,890,1,10:55,08:45,Wednesday,02/08/2023
+Austrian Airlines,Berlin (BER),Tokyo (NRT),2551,1010,1,09:00,08:50,Wednesday,02/08/2023
+Lufthansa,Berlin (BER),Tokyo (HND),2551,860,1,10:50,08:10,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2553,860,1,10:50,08:10,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2553,920,1,09:50,08:10,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2553,980,1,08:50,08:10,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2553,1130,1,06:20,08:10,Wednesday,02/08/2023
+Lufthansa,Berlin (BER),Tokyo (HND),2558,840,1,09:45,06:45,Wednesday,02/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Wednesday,02/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,860,1,17:45,15:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,920,1,16:45,15:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,960,1,07:45,06:45,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,1020,1,06:45,06:45,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,1040,1,14:45,15:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,1100,1,13:45,15:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,1340,1,09:45,15:05,Wednesday,02/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,1340,1,09:45,15:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,1400,1,08:45,15:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,1430,1,08:15,15:05,Wednesday,02/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),790,1395,2,07:00,13:15,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),806,1290,2,08:45,13:15,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),806,1320,2,08:15,13:15,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),806,1410,2,06:45,13:15,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1255,2,09:45,13:40,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1315,2,08:45,13:40,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1345,2,08:15,13:40,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1400,2,09:45,16:05,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1435,2,06:45,13:40,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1460,2,08:45,16:05,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1490,2,08:15,16:05,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),839,1215,2,09:50,13:05,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),839,1365,2,07:20,13:05,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),839,1425,2,06:20,13:05,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),845,1280,2,08:45,13:05,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),845,1310,2,08:15,13:05,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),845,1400,2,06:45,13:05,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1190,2,19:45,22:35,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1310,2,17:45,22:35,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1370,2,16:45,22:35,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),870,1275,2,09:00,13:15,Thursday,03/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),924,1135,1,16:40,18:35,Thursday,03/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),929,1390,2,06:55,13:05,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),952,1195,2,10:45,13:40,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),998,1175,2,14:45,17:20,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),998,1235,2,13:45,17:20,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),998,1395,2,14:45,21:00,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1005,1635,2,20:30,06:45,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1007,1400,2,06:15,12:35,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1021,1370,2,15:10,21:00,Thursday,03/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1010,1,19:35,19:25,Thursday,03/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1290,1,14:55,19:25,Thursday,03/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1545,1,10:40,19:25,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1153,1340,2,09:45,15:05,Thursday,03/08/2023
+Scandinavian Airlines,Berlin (BER),Tokyo (HND),1211,1660,1,21:15,07:55,Thursday,03/08/2023
+Air France,Berlin (BER),Tokyo (HND),1253,1585,1,20:30,05:55,Thursday,03/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1256,1130,2,14:30,16:20,Thursday,03/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1256,1265,2,12:15,16:20,Thursday,03/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1256,1455,2,09:05,16:20,Thursday,03/08/2023
+Air France,Berlin (BER),Tokyo (NRT),1274,1625,3,06:15,16:20,Thursday,03/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,760,1,13:15,08:55,Thursday,03/08/2023
+Japan Airlines,Berlin (BER),Tokyo (NRT),1289,1010,1,13:15,13:05,Thursday,03/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,1055,1,13:15,13:50,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1301,760,1,13:15,08:55,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,900,1,11:45,09:45,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,1020,1,09:45,09:45,Thursday,03/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),1313,1020,1,09:45,09:45,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1210,2,10:45,13:55,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1270,2,09:45,13:55,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1330,2,08:45,13:55,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1360,2,08:15,13:55,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1450,2,06:45,13:55,Thursday,03/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,760,1,13:15,08:55,Thursday,03/08/2023
+Finnair,Berlin (BER),Tokyo (NRT),1519,1010,1,13:15,13:05,Thursday,03/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1020,1,08:55,08:55,Thursday,03/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1055,1,13:15,13:50,Thursday,03/08/2023
+Finnair,Berlin (BER),Tokyo (NRT),1519,1270,1,08:55,13:05,Thursday,03/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1315,1,08:55,13:50,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1590,1010,1,13:15,13:05,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,760,1,13:15,08:55,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,1020,1,08:55,08:55,Thursday,03/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1025,1,07:05,07:10,Thursday,03/08/2023
+Air France,Berlin (BER),Tokyo (HND),1633,1000,1,06:15,05:55,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1696,1280,2,10:45,15:05,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1757,1355,2,11:45,17:20,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),2019,1325,2,07:20,12:25,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),2019,1375,2,07:20,13:15,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),2019,1385,2,06:20,12:25,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),2019,1435,2,06:20,13:15,Thursday,03/08/2023
+Air France,Berlin (BER),Tokyo (HND),2235,1050,1,18:00,18:30,Thursday,03/08/2023
+Swiss International Air Lines,Berlin (BER),Tokyo (NRT),2550,1755,1,20:30,08:45,Thursday,03/08/2023
+Austrian Airlines,Berlin (BER),Tokyo (NRT),2551,1010,1,09:00,08:50,Thursday,03/08/2023
+Lufthansa,Berlin (BER),Tokyo (HND),2551,860,1,10:50,08:10,Thursday,03/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Thursday,03/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Thursday,03/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,860,1,17:45,15:05,Thursday,03/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,1340,1,09:45,15:05,Thursday,03/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),571,1345,1,09:35,15:00,Friday,04/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),672,1610,2,09:35,19:25,Friday,04/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),672,2565,2,09:35,11:20,Friday,04/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),754,1135,1,16:40,18:35,Friday,04/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),754,1530,1,10:05,18:35,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),790,1275,2,09:00,13:15,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),806,1290,2,08:45,13:15,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1195,2,10:45,13:40,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1255,2,09:45,13:40,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1315,2,08:45,13:40,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1345,2,08:15,13:40,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1375,2,07:45,13:40,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),880,1190,2,19:45,22:35,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1340,2,10:45,16:05,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1400,2,09:45,16:05,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),935,1185,2,10:55,13:40,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),935,1330,2,10:55,16:05,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),966,1275,2,08:50,13:05,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),966,1365,2,07:20,13:05,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),972,1310,2,08:15,13:05,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),972,1340,2,07:45,13:05,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),972,1400,2,06:45,13:05,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),998,1175,2,14:45,17:20,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),998,1235,2,13:45,17:20,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1007,1400,2,06:15,12:35,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1021,1270,2,16:50,21:00,Friday,04/08/2023
+Singapore Airlines,Berlin (BER),Tokyo (NRT),1023,1495,1,09:35,17:30,Friday,04/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),1107,980,1,19:10,18:30,Friday,04/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),1107,1450,1,11:20,18:30,Friday,04/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (NRT),1125,945,1,10:40,09:25,Friday,04/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1010,1,19:35,19:25,Friday,04/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (NRT),1125,1165,1,07:00,09:25,Friday,04/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1405,1,13:00,19:25,Friday,04/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1130,1290,1,14:55,19:25,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1153,1430,2,08:15,15:05,Friday,04/08/2023
+Scandinavian Airlines,Berlin (BER),Tokyo (HND),1211,1630,1,21:45,07:55,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1229,1280,2,08:45,13:05,Friday,04/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,1055,1,13:15,13:50,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,860,1,10:50,08:10,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,905,1,08:50,06:55,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,980,1,08:50,08:10,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,995,1,07:20,06:55,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,1055,1,06:20,06:55,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,900,1,11:45,09:45,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,960,1,10:45,09:45,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,1020,1,09:45,09:45,Friday,04/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),1313,1020,1,09:45,09:45,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1333,925,1,16:50,15:15,Friday,04/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1333,925,1,16:50,15:15,Friday,04/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1333,1010,1,11:05,10:55,Friday,04/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1333,1270,1,11:05,15:15,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1270,2,09:45,13:55,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1330,2,08:45,13:55,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1360,2,08:15,13:55,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1390,2,07:45,13:55,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1403,1280,2,09:35,13:55,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1438,1120,1,12:10,13:50,Friday,04/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,760,1,13:15,08:55,Friday,04/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1020,1,08:55,08:55,Friday,04/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1055,1,13:15,13:50,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1524,760,1,13:15,08:55,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1590,1145,1,13:15,15:20,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,760,1,13:15,08:55,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,1020,1,08:55,08:55,Friday,04/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1010,1,11:05,10:55,Friday,04/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1025,1,07:05,07:10,Friday,04/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1250,1,07:05,10:55,Friday,04/08/2023
+Air France,Berlin (BER),Tokyo (HND),1633,1000,1,06:15,05:55,Friday,04/08/2023
+Air France,Berlin (BER),Tokyo (NRT),1633,1150,1,06:15,08:25,Friday,04/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1636,1735,1,20:40,08:35,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1639,1620,2,06:15,16:15,Friday,04/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1663,1165,2,06:00,08:25,Friday,04/08/2023
+Air France,Berlin (BER),Tokyo (HND),2235,1050,1,18:00,18:30,Friday,04/08/2023
+Swiss International Air Lines,Berlin (BER),Tokyo (NRT),2550,890,1,10:55,08:45,Friday,04/08/2023
+Austrian Airlines,Berlin (BER),Tokyo (NRT),2551,1730,1,21:00,08:50,Friday,04/08/2023
+Lufthansa,Berlin (BER),Tokyo (HND),2551,860,1,10:50,08:10,Friday,04/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Friday,04/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,860,1,17:45,15:05,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,900,1,08:45,06:45,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,930,1,08:15,06:45,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,960,1,07:45,06:45,Friday,04/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,1020,1,06:45,06:45,Friday,04/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),769,1450,1,11:20,18:30,Saturday,05/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),825,1390,2,06:55,13:05,Saturday,05/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),825,1390,2,06:55,13:05,Saturday,05/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),880,1310,2,17:45,22:35,Saturday,05/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1195,2,10:45,13:40,Saturday,05/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),526,1345,1,09:35,15:00,Sunday,06/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),627,1610,2,09:35,19:25,Sunday,06/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),627,2565,2,09:35,11:20,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1420,2,07:00,13:40,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),790,1275,2,09:00,13:15,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),800,1390,2,06:55,13:05,Sunday,06/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),800,1390,2,06:55,13:05,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),805,1265,2,09:35,13:40,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),805,1280,2,09:35,13:55,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),805,1410,2,09:35,16:05,Sunday,06/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),837,1530,1,10:05,18:35,Sunday,06/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),841,980,1,19:10,18:30,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1310,2,17:45,22:35,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1195,2,10:45,13:40,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1255,2,09:45,13:40,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1315,2,08:45,13:40,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1340,2,10:45,16:05,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1375,2,07:45,13:40,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),898,1290,2,08:45,13:15,Sunday,06/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),924,1135,1,16:40,18:35,Sunday,06/08/2023
+Singapore Airlines,Berlin (BER),Tokyo (NRT),933,1495,1,09:35,17:30,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1340,2,07:45,13:05,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),998,1235,2,13:45,17:20,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1021,1285,2,16:35,21:00,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1032,1185,2,10:55,13:40,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1032,1200,2,10:55,13:55,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1032,1330,2,10:55,16:05,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1099,1280,2,10:45,15:05,Sunday,06/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (NRT),1130,945,1,10:40,09:25,Sunday,06/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1130,1010,1,19:35,19:25,Sunday,06/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (NRT),1130,1165,1,07:00,09:25,Sunday,06/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1130,1290,1,14:55,19:25,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1163,1400,2,06:15,12:35,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1204,1280,2,08:45,13:05,Sunday,06/08/2023
+Scandinavian Airlines,Berlin (BER),Tokyo (HND),1211,1630,1,21:45,07:55,Sunday,06/08/2023
+Air France,Berlin (BER),Tokyo (HND),1253,1585,1,20:30,05:55,Sunday,06/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1256,1130,2,14:30,16:20,Sunday,06/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1256,1265,2,12:15,16:20,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1284,1310,2,13:45,18:35,Sunday,06/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,1055,1,13:15,13:50,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,860,1,10:50,08:10,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,980,1,08:50,08:10,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,1025,2,19:50,19:55,Sunday,06/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),1313,1085,2,18:50,19:55,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,1085,2,18:50,19:55,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,900,1,11:45,09:45,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,960,1,10:45,09:45,Sunday,06/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),1313,1020,1,09:45,09:45,Sunday,06/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1333,940,1,16:35,15:15,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1210,2,10:45,13:55,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1270,2,09:45,13:55,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1330,2,08:45,13:55,Sunday,06/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1512,760,1,13:15,08:55,Sunday,06/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,760,1,13:15,08:55,Sunday,06/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1020,1,08:55,08:55,Sunday,06/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1055,1,13:15,13:50,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1524,760,1,13:15,08:55,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,760,1,13:15,08:55,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,1020,1,08:55,08:55,Sunday,06/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1020,1,07:10,07:10,Sunday,06/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1245,1,07:10,10:55,Sunday,06/08/2023
+Air France,Berlin (BER),Tokyo (NRT),1633,1150,1,06:15,08:25,Sunday,06/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1636,1455,2,09:05,16:20,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1642,1340,2,09:45,15:05,Sunday,06/08/2023
+Air France,Berlin (BER),Tokyo (HND),2235,1050,1,18:00,18:30,Sunday,06/08/2023
+Swiss International Air Lines,Berlin (BER),Tokyo (NRT),2550,890,1,10:55,08:45,Sunday,06/08/2023
+Austrian Airlines,Berlin (BER),Tokyo (NRT),2551,1010,1,09:00,08:50,Sunday,06/08/2023
+Lufthansa,Berlin (BER),Tokyo (HND),2551,860,1,10:50,08:10,Sunday,06/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,860,1,17:45,15:05,Sunday,06/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,860,1,17:45,15:05,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,900,1,08:45,06:45,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,920,1,16:45,15:05,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,960,1,07:45,06:45,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,1020,1,06:45,06:45,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,1100,1,13:45,15:05,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,1220,1,11:45,15:05,Sunday,06/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,1280,1,10:45,15:05,Sunday,06/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,1340,1,09:45,15:05,Sunday,06/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),769,980,1,19:10,18:30,Monday,07/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),769,1450,1,11:20,18:30,Monday,07/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),800,1390,2,06:55,13:05,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),806,1290,2,08:45,13:15,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),806,1320,2,08:15,13:15,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),806,1350,2,07:45,13:15,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1185,2,19:50,22:35,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1245,2,18:50,22:35,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1305,2,17:50,22:35,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1190,2,19:45,22:35,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1250,2,18:45,22:35,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1310,2,17:45,22:35,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1175,2,14:45,17:20,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1355,2,11:45,17:20,Monday,07/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),924,1135,1,16:40,18:35,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1033,1400,2,06:15,12:35,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1060,1215,2,09:50,13:05,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1060,1365,2,07:20,13:05,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1066,1280,2,08:45,13:05,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1066,1310,2,08:15,13:05,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1066,1340,2,07:45,13:05,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1099,1340,2,09:45,15:05,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1122,1495,3,14:30,22:25,Monday,07/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1010,1,19:35,19:25,Monday,07/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1290,1,14:55,19:25,Monday,07/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1405,1,13:00,19:25,Monday,07/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1545,1,10:40,19:25,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1135,1635,2,20:30,06:45,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1198,1275,2,08:50,13:05,Monday,07/08/2023
+Scandinavian Airlines,Berlin (BER),Tokyo (HND),1211,1660,1,21:15,07:55,Monday,07/08/2023
+Air France,Berlin (BER),Tokyo (HND),1253,1000,1,06:15,05:55,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1259,1620,2,06:15,16:15,Monday,07/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,760,1,13:15,08:55,Monday,07/08/2023
+Japan Airlines,Berlin (BER),Tokyo (NRT),1289,1010,1,13:15,13:05,Monday,07/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,1055,1,13:15,13:50,Monday,07/08/2023
+Air France,Berlin (BER),Tokyo (HND),1295,1050,1,18:00,18:30,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,860,1,10:50,08:10,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,905,1,08:50,06:55,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,920,1,09:50,08:10,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,980,1,08:50,08:10,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,995,1,07:20,06:55,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,1055,1,06:20,06:55,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,900,1,11:45,09:45,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,960,1,10:45,09:45,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,1020,1,09:45,09:45,Monday,07/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),1313,1020,1,09:45,09:45,Monday,07/08/2023
+KLM,Berlin (BER),Tokyo (HND),1325,1260,2,14:30,18:30,Monday,07/08/2023
+KLM,Berlin (BER),Tokyo (HND),1325,1260,2,14:30,18:30,Monday,07/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1333,1015,1,11:00,10:55,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1333,1035,1,15:00,15:15,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1333,1180,1,12:35,15:15,Monday,07/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1333,1275,1,11:00,15:15,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1438,1120,1,12:10,13:50,Monday,07/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,760,1,13:15,08:55,Monday,07/08/2023
+Finnair,Berlin (BER),Tokyo (NRT),1519,1010,1,13:15,13:05,Monday,07/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1020,1,08:55,08:55,Monday,07/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1055,1,13:15,13:50,Monday,07/08/2023
+Finnair,Berlin (BER),Tokyo (NRT),1519,1270,1,08:55,13:05,Monday,07/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1315,1,08:55,13:50,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1590,1010,1,13:15,13:05,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,760,1,13:15,08:55,Monday,07/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1015,1,11:00,10:55,Monday,07/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1020,1,07:10,07:10,Monday,07/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1245,1,07:10,10:55,Monday,07/08/2023
+Air France,Berlin (BER),Tokyo (HND),1633,1400,1,12:10,18:30,Monday,07/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1636,2200,2,20:40,16:20,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1642,1280,2,10:45,15:05,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1784,1095,1,06:40,07:55,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),2019,1235,2,08:50,12:25,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),2019,1285,2,08:50,13:15,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),2019,1325,2,07:20,12:25,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),2027,1955,2,20:50,12:25,Monday,07/08/2023
+Swiss International Air Lines,Berlin (BER),Tokyo (NRT),2550,890,1,10:55,08:45,Monday,07/08/2023
+Austrian Airlines,Berlin (BER),Tokyo (NRT),2551,1805,1,19:45,08:50,Monday,07/08/2023
+Lufthansa,Berlin (BER),Tokyo (HND),2551,860,1,10:50,08:10,Monday,07/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Monday,07/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Monday,07/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,860,1,17:45,15:05,Monday,07/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,1340,1,09:45,15:05,Monday,07/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),702,1135,1,16:40,18:35,Tuesday,08/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),702,1530,1,10:05,18:35,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1195,2,10:45,13:40,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1255,2,09:45,13:40,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1315,2,08:45,13:40,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1340,2,10:45,16:05,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1345,2,08:15,13:40,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1375,2,07:45,13:40,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1400,2,09:45,16:05,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1435,2,06:45,13:40,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),725,1275,2,09:00,13:15,Tuesday,08/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),800,1390,2,06:55,13:05,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),819,1290,2,08:45,13:15,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),819,1320,2,08:15,13:15,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),819,1350,2,07:45,13:15,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1185,2,19:50,22:35,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1305,2,17:50,22:35,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1365,2,16:50,22:35,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1190,2,19:45,22:35,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1250,2,18:45,22:35,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1370,2,16:45,22:35,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1175,2,14:45,17:20,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),910,1400,2,06:15,12:35,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1210,2,10:45,13:55,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1270,2,09:45,13:55,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1330,2,08:45,13:55,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1360,2,08:15,13:55,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1390,2,07:45,13:55,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),941,1215,2,09:50,13:05,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),941,1365,2,07:20,13:05,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1280,2,08:45,13:05,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1310,2,08:15,13:05,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1340,2,07:45,13:05,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1099,1280,2,10:45,15:05,Tuesday,08/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1116,1735,1,20:40,08:35,Tuesday,08/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (NRT),1125,945,1,10:40,09:25,Tuesday,08/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1010,1,19:35,19:25,Tuesday,08/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (NRT),1125,1165,1,07:00,09:25,Tuesday,08/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1290,1,14:55,19:25,Tuesday,08/08/2023
+Scandinavian Airlines,Berlin (BER),Tokyo (HND),1211,1660,1,21:15,07:55,Tuesday,08/08/2023
+Air France,Berlin (BER),Tokyo (NRT),1253,1150,1,06:15,08:25,Tuesday,08/08/2023
+Air France,Berlin (BER),Tokyo (HND),1253,1585,1,20:30,05:55,Tuesday,08/08/2023
+Air France,Berlin (BER),Tokyo (NRT),1275,1895,2,18:00,08:35,Tuesday,08/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1283,1165,2,06:00,08:25,Tuesday,08/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,760,1,13:15,08:55,Tuesday,08/08/2023
+Japan Airlines,Berlin (BER),Tokyo (NRT),1289,1010,1,13:15,13:05,Tuesday,08/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,1055,1,13:15,13:50,Tuesday,08/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1298,1130,2,14:30,16:20,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1301,760,1,13:15,08:55,Tuesday,08/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (NRT),1307,1010,1,09:00,08:50,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,860,1,10:50,08:10,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,920,1,09:50,08:10,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,980,1,08:50,08:10,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1307,1070,1,07:20,08:10,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,900,1,11:45,09:45,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1313,960,1,10:45,09:45,Tuesday,08/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),1313,1020,1,09:45,09:45,Tuesday,08/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,760,1,13:15,08:55,Tuesday,08/08/2023
+Finnair,Berlin (BER),Tokyo (NRT),1519,1010,1,13:15,13:05,Tuesday,08/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1020,1,08:55,08:55,Tuesday,08/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1055,1,13:15,13:50,Tuesday,08/08/2023
+Finnair,Berlin (BER),Tokyo (NRT),1519,1270,1,08:55,13:05,Tuesday,08/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1315,1,08:55,13:50,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1590,1010,1,13:15,13:05,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1590,1145,1,13:15,15:20,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,760,1,13:15,08:55,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,1020,1,08:55,08:55,Tuesday,08/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1025,1,07:05,07:10,Tuesday,08/08/2023
+Air France,Berlin (BER),Tokyo (HND),1633,1050,1,18:00,18:30,Tuesday,08/08/2023
+Air France,Berlin (BER),Tokyo (HND),1633,1400,1,12:10,18:30,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1784,1095,1,06:40,07:55,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),2019,1235,2,08:50,12:25,Tuesday,08/08/2023
+Swiss International Air Lines,Berlin (BER),Tokyo (NRT),2550,1755,1,20:30,08:45,Tuesday,08/08/2023
+Austrian Airlines,Berlin (BER),Tokyo (NRT),2551,875,1,11:15,08:50,Tuesday,08/08/2023
+Lufthansa,Berlin (BER),Tokyo (HND),2551,860,1,10:50,08:10,Tuesday,08/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Tuesday,08/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,860,1,17:45,15:05,Tuesday,08/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),2559,1280,1,10:45,15:05,Tuesday,08/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,1340,1,09:45,15:05,Tuesday,08/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),461,1345,1,09:35,15:00,Wednesday,9/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),562,1610,2,09:35,19:25,Wednesday,9/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),562,2565,2,09:35,11:20,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1185,2,10:55,13:40,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1265,2,09:35,13:40,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1330,2,10:55,16:05,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1410,2,09:35,16:05,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1420,2,07:00,13:40,Wednesday,9/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),697,980,1,19:10,18:30,Wednesday,9/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),702,1135,1,16:40,18:35,Wednesday,9/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),702,1530,1,10:05,18:35,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1290,2,08:45,13:15,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1320,2,08:15,13:15,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1350,2,07:45,13:15,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1410,2,06:45,13:15,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1195,2,10:45,13:40,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1255,2,09:45,13:40,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1315,2,08:45,13:40,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1340,2,10:45,16:05,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1345,2,08:15,13:40,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1375,2,07:45,13:40,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1400,2,09:45,16:05,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1435,2,06:45,13:40,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1460,2,08:45,16:05,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),805,1200,2,10:55,13:55,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),805,1280,2,09:35,13:55,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),805,1435,2,07:00,13:55,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1190,2,19:45,22:35,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),868,1455,2,06:00,13:15,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1175,2,14:45,17:20,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1395,2,14:45,21:00,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),910,1400,2,06:15,12:35,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),924,1265,2,16:55,21:00,Wednesday,9/08/2023
+Singapore Airlines,Berlin (BER),Tokyo (NRT),933,1495,1,09:35,17:30,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),941,1215,2,09:50,13:05,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),941,1425,2,06:20,13:05,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1280,2,08:45,13:05,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1310,2,08:15,13:05,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1340,2,07:45,13:05,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1400,2,06:45,13:05,Wednesday,9/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1116,990,1,09:05,08:35,Wednesday,9/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1116,1175,1,06:00,08:35,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1119,1620,2,06:15,16:15,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1010,1,19:35,19:25,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1290,1,14:55,19:25,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1405,1,13:00,19:25,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1125,1545,1,10:40,19:25,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1198,1275,2,08:50,13:05,Wednesday,9/08/2023
+Scandinavian Airlines,Berlin (BER),Tokyo (HND),1211,1660,1,21:15,07:55,Wednesday,9/08/2023
+Air France,Berlin (BER),Tokyo (HND),1253,1000,1,06:15,05:55,Wednesday,9/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,760,1,13:15,08:55,Wednesday,9/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1289,1055,1,13:15,13:50,Wednesday,9/08/2023
+Air France,Berlin (BER),Tokyo (HND),1295,1050,1,18:00,18:30,Wednesday,9/08/2023
+Air France,Berlin (BER),Tokyo (HND),1295,1400,1,12:10,18:30,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1301,760,1,13:15,08:55,Wednesday,9/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (NRT),1311,960,1,18:45,17:45,Wednesday,9/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1333,920,1,16:55,15:15,Wednesday,9/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1333,1005,1,11:10,10:55,Wednesday,9/08/2023
+Japan Airlines,Berlin (BER),Tokyo (HND),1333,1265,1,11:10,15:15,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1330,2,08:45,13:55,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1360,2,08:15,13:55,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1390,2,07:45,13:55,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1365,1450,2,06:45,13:55,Wednesday,9/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,760,1,13:15,08:55,Wednesday,9/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1020,1,08:55,08:55,Wednesday,9/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1055,1,13:15,13:50,Wednesday,9/08/2023
+Finnair,Berlin (BER),Tokyo (HND),1519,1315,1,08:55,13:50,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,760,1,13:15,08:55,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1605,1020,1,08:55,08:55,Wednesday,9/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1005,1,07:25,07:10,Wednesday,9/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1005,1,11:10,10:55,Wednesday,9/08/2023
+British Airways,Berlin (BER),Tokyo (HND),1622,1230,1,07:25,10:55,Wednesday,9/08/2023
+Air France,Berlin (BER),Tokyo (HND),1633,1585,1,20:30,05:55,Wednesday,9/08/2023
+Swiss International Air Lines,Berlin (BER),Tokyo (NRT),2550,890,1,10:55,08:45,Wednesday,9/08/2023
+Austrian Airlines,Berlin (BER),Tokyo (NRT),2551,1010,1,09:00,08:50,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Tokyo (HND),2551,860,1,10:50,08:10,Wednesday,9/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,840,1,09:45,06:45,Wednesday,9/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,860,1,17:45,15:05,Wednesday,9/08/2023
+All Nippon Airways,Berlin (BER),Tokyo (HND),2559,1340,1,09:45,15:05,Wednesday,9/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),702,1135,1,16:40,18:35,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),725,1395,2,07:00,13:15,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),773,1290,2,08:45,13:15,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),773,1320,2,08:15,13:15,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),773,1410,2,06:45,13:15,Thursday,10/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),800,1390,2,06:55,13:05,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),805,1275,2,09:00,13:15,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),805,1495,2,09:00,16:55,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1190,2,19:45,22:35,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1175,2,14:45,17:20,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1355,2,11:45,17:20,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1395,2,14:45,21:00,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1455,2,13:45,21:00,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1475,2,09:45,17:20,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),910,1400,2,06:15,12:35,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),918,1370,2,11:45,17:35,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),924,1370,2,15:10,21:00,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1280,2,08:45,13:05,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),947,1310,2,08:15,13:05,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),979,1340,2,09:45,15:05,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),979,1400,2,08:45,15:05,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),979,1430,2,08:15,15:05,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),979,1520,2,06:45,15:05,Thursday,10/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1007,1130,2,14:30,16:20,Thursday,10/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),526,1345,1,09:35,15:00,Friday,11/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),627,1610,2,09:35,19:25,Friday,11/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),669,2565,2,09:35,11:20,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),725,1275,2,09:00,13:15,Friday,11/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),728,1135,1,16:40,18:35,Friday,11/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),728,1530,1,10:05,18:35,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),773,1290,2,08:45,13:15,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),773,1320,2,08:15,13:15,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),773,1350,2,07:45,13:15,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),773,1410,2,06:45,13:15,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1195,2,10:45,13:40,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1255,2,09:45,13:40,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1315,2,08:45,13:40,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1345,2,08:15,13:40,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1375,2,07:45,13:40,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1435,2,06:45,13:40,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),880,1190,2,19:45,22:35,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1460,2,08:45,16:05,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1490,2,08:15,16:05,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1175,2,14:45,17:20,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1355,2,11:45,17:20,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1395,2,14:45,21:00,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),924,1270,2,16:50,21:00,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),924,1425,2,14:15,21:00,Friday,11/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),754,1135,1,16:40,18:35,Saturday,12/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),769,1450,1,11:20,18:30,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),819,1350,2,07:45,13:15,Saturday,12/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),825,1390,2,06:55,13:05,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),868,1455,2,06:00,13:15,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),879,1290,2,08:45,13:15,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),880,1310,2,17:45,22:35,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1195,2,10:45,13:40,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1315,2,08:45,13:40,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1340,2,10:45,16:05,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1375,2,07:45,13:40,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1460,2,08:45,16:05,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),887,1520,2,07:45,16:05,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),920,1175,2,14:45,17:20,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),920,1235,2,13:45,17:20,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),920,1355,2,11:45,17:20,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),920,1395,2,14:45,21:00,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),920,1415,2,10:45,17:20,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),966,1275,2,08:50,13:05,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),966,1365,2,07:20,13:05,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),972,1340,2,07:45,13:05,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),979,1280,2,10:45,15:05,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1007,1370,2,11:45,17:35,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1043,1985,2,20:30,12:35,Saturday,12/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1116,1175,1,06:00,08:35,Saturday,12/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),562,2565,2,09:35,11:20,Sunday,13/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),580,1345,1,09:35,15:00,Sunday,13/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),604,1610,2,09:35,19:25,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),688,1420,2,07:00,13:40,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),688,1435,2,07:00,13:55,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),805,1265,2,09:35,13:40,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),805,1280,2,09:35,13:55,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),805,1410,2,09:35,16:05,Sunday,13/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),837,1530,1,10:05,18:35,Sunday,13/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),841,980,1,19:10,18:30,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1310,2,17:45,22:35,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),871,1350,2,07:45,13:15,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),871,1410,2,06:45,13:15,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1290,2,08:45,13:15,Sunday,13/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),924,1135,1,16:40,18:35,Sunday,13/08/2023
+Singapore Airlines,Berlin (BER),Tokyo (NRT),933,1495,1,09:35,17:30,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),943,1285,2,16:35,21:00,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),979,1280,2,10:45,15:05,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1032,1185,2,10:55,13:40,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),1032,1200,2,10:55,13:55,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1032,1330,2,10:55,16:05,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1033,1400,2,06:15,12:35,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1087,1390,2,06:55,13:05,Sunday,13/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),1087,1390,2,06:55,13:05,Sunday,13/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),769,980,1,19:10,18:30,Monday,14/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),769,1450,1,11:20,18:30,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1195,2,10:45,13:40,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1255,2,09:45,13:40,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1315,2,08:45,13:40,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1340,2,10:45,16:05,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1345,2,08:15,13:40,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1375,2,07:45,13:40,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1400,2,09:45,16:05,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),822,1435,2,06:45,13:40,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1190,2,19:45,22:35,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),871,1290,2,08:45,13:15,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),871,1320,2,08:15,13:15,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),871,1350,2,07:45,13:15,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),892,1320,2,13:35,18:35,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Monday,14/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),929,1390,2,06:55,13:05,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),929,1390,2,06:55,13:05,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),979,1280,2,10:45,15:05,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),979,1340,2,09:45,15:05,Monday,14/08/2023
+KLM,Berlin (BER),Tokyo (NRT),1007,2200,2,20:40,16:20,Monday,14/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),1026,1135,1,16:40,18:35,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1033,1400,2,06:15,12:35,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1060,1215,2,09:50,13:05,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1060,1275,2,08:50,13:05,Monday,14/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),702,1530,1,10:05,18:35,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1340,2,10:45,16:05,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),705,1400,2,09:45,16:05,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1195,2,10:45,13:40,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1255,2,09:45,13:40,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1315,2,08:45,13:40,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1345,2,08:15,13:40,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1375,2,07:45,13:40,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),763,1435,2,06:45,13:40,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),819,1290,2,08:45,13:15,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),819,1320,2,08:15,13:15,Tuesday,15/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),837,1135,1,16:40,18:35,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1185,2,19:50,22:35,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1190,2,19:45,22:35,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1250,2,18:45,22:35,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1310,2,17:45,22:35,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1175,2,14:45,17:20,Tuesday,15/08/2023
+KLM,Berlin (BER),Tokyo (NRT),918,1130,2,14:30,16:20,Tuesday,15/08/2023
+KLM,Berlin (BER),Tokyo (NRT),918,1265,2,12:15,16:20,Tuesday,15/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),929,1390,2,06:55,13:05,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1210,2,10:45,13:55,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1270,2,09:45,13:55,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1330,2,08:45,13:55,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1360,2,08:15,13:55,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1390,2,07:45,13:55,Tuesday,15/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),580,1345,1,09:35,15:00,Wednesday,16/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),604,1610,2,09:35,19:25,Wednesday,16/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),604,2565,2,09:35,11:20,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1185,2,10:55,13:40,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),642,1200,2,10:55,13:55,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1265,2,09:35,13:40,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),642,1280,2,09:35,13:55,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1330,2,10:55,16:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1410,2,09:35,16:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1420,2,07:00,13:40,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),642,1435,2,07:00,13:55,Wednesday,16/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),697,980,1,19:10,18:30,Wednesday,16/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),702,1135,1,16:40,18:35,Wednesday,16/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),702,1530,1,10:05,18:35,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1195,2,10:45,13:40,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1255,2,09:45,13:40,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1315,2,08:45,13:40,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1340,2,10:45,16:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1345,2,08:15,13:40,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1375,2,07:45,13:40,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1400,2,09:45,16:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1435,2,06:45,13:40,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1460,2,08:45,16:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1490,2,08:15,16:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1520,2,07:45,16:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1195,2,10:45,13:40,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1255,2,09:45,13:40,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1315,2,08:45,13:40,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1340,2,10:45,16:05,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1345,2,08:15,13:40,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1375,2,07:45,13:40,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1400,2,09:45,16:05,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1435,2,06:45,13:40,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1460,2,08:45,16:05,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1490,2,08:15,16:05,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1520,2,07:45,16:05,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),725,1275,2,09:00,13:15,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),725,1395,2,07:00,13:15,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1290,2,08:45,13:15,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1320,2,08:15,13:15,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1350,2,07:45,13:15,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1410,2,06:45,13:15,Thursday,17/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),770,1135,1,16:40,18:35,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1190,2,19:45,22:35,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1250,2,18:45,22:35,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1310,2,17:45,22:35,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1175,2,14:45,17:20,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1395,2,14:45,21:00,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),910,1400,2,06:15,12:35,Thursday,17/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),610,1345,1,09:35,15:00,Friday,18/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),634,1610,2,09:35,19:25,Friday,18/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),634,2565,2,09:35,11:20,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),725,1275,2,09:00,13:15,Friday,18/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),728,1135,1,16:40,18:35,Friday,18/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),728,1530,1,10:05,18:35,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1290,2,08:45,13:15,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1320,2,08:15,13:15,Friday,18/08/2023
+KLM,Berlin (BER),Tokyo (NRT),799,1845,1,18:50,08:35,Friday,18/08/2023
+Singapore Airlines,Berlin (BER),Tokyo (NRT),848,1495,1,09:35,17:30,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),880,1190,2,19:45,22:35,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),880,1310,2,17:45,22:35,Friday,18/08/2023
+KLM,Berlin (BER),Tokyo (NRT),888,1735,1,20:40,08:35,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),889,1330,2,10:55,16:05,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1175,2,14:45,17:20,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Friday,18/08/2023
+Air France,Berlin (BER),Tokyo (NRT),906,1745,2,20:30,08:35,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),910,1400,2,06:15,12:35,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),924,1270,2,16:50,21:00,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),966,1365,2,07:20,13:05,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),972,1280,2,08:45,13:05,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),972,1310,2,08:15,13:05,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),972,1400,2,06:45,13:05,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),979,1400,2,08:45,15:05,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),1026,1440,2,08:45,15:45,Friday,18/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),769,1450,1,11:20,18:30,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),773,1290,2,08:45,13:15,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),778,1390,2,06:55,13:05,Saturday,19/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),778,1390,2,06:55,13:05,Saturday,19/08/2023
+KLM,Berlin (BER),Tokyo (NRT),799,1175,1,06:00,08:35,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),864,1365,2,07:20,13:05,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),870,1280,2,08:45,13:05,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),870,1340,2,07:45,13:05,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),880,1185,2,19:50,22:35,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),880,1190,2,19:45,22:35,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),880,1310,2,17:45,22:35,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1175,2,14:45,17:20,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),906,1340,2,10:45,16:05,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),906,1400,2,09:45,16:05,Saturday,19/08/2023
+Air France,Berlin (BER),Tokyo (NRT),907,1160,2,06:15,08:35,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),910,1400,2,06:15,12:35,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),924,1160,2,06:15,08:35,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),924,1160,2,06:15,08:35,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),979,1280,2,10:45,15:05,Saturday,19/08/2023
+KLM,Berlin (BER),Tokyo (NRT),996,990,1,09:05,08:35,Saturday,19/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),1052,1135,1,16:40,18:35,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1130,1010,1,19:35,19:25,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1130,1290,1,14:55,19:25,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Tokyo (HND),1130,1405,1,13:00,19:25,Saturday,19/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),461,1345,1,09:35,15:00,Sunday,20/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),562,1610,2,09:35,19:25,Sunday,20/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),562,2565,2,09:35,11:20,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1420,2,07:00,13:40,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),642,1435,2,07:00,13:55,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1565,2,07:00,16:05,Sunday,20/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),702,1135,1,16:40,18:35,Sunday,20/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),702,1530,1,10:05,18:35,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1195,2,10:45,13:40,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1375,2,07:45,13:40,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),725,1275,2,09:00,13:15,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1350,2,07:45,13:15,Sunday,20/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),753,1390,2,06:55,13:05,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),759,1265,2,09:35,13:40,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),759,1280,2,09:35,13:55,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),759,1410,2,09:35,16:05,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),801,1290,2,08:45,13:15,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),841,1520,2,07:45,16:05,Sunday,20/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),841,980,1,19:10,18:30,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),845,1340,2,07:45,13:05,Sunday,20/08/2023
+Singapore Airlines,Berlin (BER),Tokyo (NRT),848,1495,1,09:35,17:30,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1310,2,17:45,22:35,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1370,2,16:45,22:35,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),855,1430,2,10:45,17:35,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),871,1280,2,10:45,15:05,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1195,2,10:45,13:40,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1255,2,09:45,13:40,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1315,2,08:45,13:40,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1340,2,10:45,16:05,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1345,2,08:15,13:40,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1375,2,07:45,13:40,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1400,2,09:45,16:05,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1405,2,07:15,13:40,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1290,2,08:45,13:15,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1320,2,08:15,13:15,Monday,21/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),769,980,1,19:10,18:30,Monday,21/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),769,1450,1,11:20,18:30,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),800,1390,2,06:55,13:05,Monday,21/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),800,1390,2,06:55,13:05,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),805,1275,2,09:00,13:15,Monday,21/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),837,1135,1,16:40,18:35,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1185,2,19:50,22:35,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1245,2,18:50,22:35,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1190,2,19:45,22:35,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1250,2,18:45,22:35,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),855,1310,2,17:45,22:35,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),871,1280,2,10:45,15:05,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),910,1400,2,06:15,12:35,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),941,1215,2,09:50,13:05,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1195,2,10:45,13:40,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1255,2,09:45,13:40,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1315,2,08:45,13:40,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1340,2,10:45,16:05,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1345,2,08:15,13:40,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1375,2,07:45,13:40,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1400,2,09:45,16:05,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1405,2,07:15,13:40,Tuesday,22/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),668,1530,1,10:05,18:35,Tuesday,22/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),718,1390,2,06:55,13:05,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1390,2,06:55,13:05,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),725,1275,2,09:00,13:15,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1290,2,08:45,13:15,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),741,1320,2,08:15,13:15,Tuesday,22/08/2023
+Air France,Berlin (BER),Tokyo (NRT),742,1745,2,20:30,08:35,Tuesday,22/08/2023
+KLM,Berlin (BER),Tokyo (NRT),799,1735,1,20:40,08:35,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),804,1215,2,09:50,13:05,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),804,1365,2,07:20,13:05,Tuesday,22/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),804,1135,1,16:40,18:35,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1280,2,08:45,13:05,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1310,2,08:15,13:05,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1340,2,07:45,13:05,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1370,2,07:15,13:05,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),815,1190,2,19:45,22:35,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),815,1250,2,18:45,22:35,Tuesday,22/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),461,1345,1,09:35,15:00,Wednesday,23/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),562,1610,2,09:35,19:25,Wednesday,23/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),562,2565,2,09:35,11:20,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1185,2,10:55,13:40,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),642,1200,2,10:55,13:55,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1265,2,09:35,13:40,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),642,1280,2,09:35,13:55,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1330,2,10:55,16:05,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1410,2,09:35,16:05,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1420,2,07:00,13:40,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1195,2,10:45,13:40,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1255,2,09:45,13:40,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1315,2,08:45,13:40,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1340,2,10:45,16:05,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1345,2,08:15,13:40,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1375,2,07:45,13:40,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1400,2,09:45,16:05,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1405,2,07:15,13:40,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),662,1620,2,06:15,16:15,Wednesday,23/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),668,1530,1,10:05,18:35,Wednesday,23/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),694,1135,1,16:40,18:35,Wednesday,23/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),697,980,1,19:10,18:30,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1290,2,08:45,13:15,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1320,2,08:15,13:15,Wednesday,23/08/2023
+KLM,Berlin (BER),Tokyo (NRT),724,1175,1,06:00,08:35,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),692,1275,2,09:00,13:15,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1290,2,08:45,13:15,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1320,2,08:15,13:15,Thursday,24/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),718,1390,2,06:55,13:05,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1390,2,06:55,13:05,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1195,2,10:45,13:40,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1255,2,09:45,13:40,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1315,2,08:45,13:40,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1340,2,10:45,16:05,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1345,2,08:15,13:40,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1375,2,07:45,13:40,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1400,2,09:45,16:05,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1405,2,07:15,13:40,Thursday,24/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),804,1135,1,16:40,18:35,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1280,2,08:45,13:05,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1310,2,08:15,13:05,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1340,2,07:45,13:05,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1370,2,07:15,13:05,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),815,1190,2,19:45,22:35,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),871,1280,2,10:45,15:05,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1175,2,14:45,17:20,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),910,1400,2,06:15,12:35,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1210,2,10:45,13:55,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),929,1270,2,09:45,13:55,Thursday,24/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),491,1345,1,09:35,15:00,Friday,25/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),592,1610,2,09:35,19:25,Friday,25/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),592,2565,2,09:35,11:20,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),692,1275,2,09:00,13:15,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),692,1395,2,07:00,13:15,Friday,25/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),694,1135,1,16:40,18:35,Friday,25/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),694,1530,1,10:05,18:35,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1290,2,08:45,13:15,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1320,2,08:15,13:15,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1380,2,07:15,13:15,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1255,2,09:45,13:40,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1315,2,08:45,13:40,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1345,2,08:15,13:40,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1400,2,09:45,16:05,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1405,2,07:15,13:40,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1435,2,06:45,13:40,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1460,2,08:45,16:05,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),759,1185,2,10:55,13:40,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),759,1330,2,10:55,16:05,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),759,1420,2,07:00,13:40,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),829,1365,2,07:20,13:05,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),829,1425,2,06:20,13:05,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),835,1280,2,08:45,13:05,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),835,1310,2,08:15,13:05,Friday,25/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),835,1370,2,07:15,13:05,Friday,25/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),694,1135,1,16:40,18:35,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1290,2,08:45,13:15,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1350,2,07:45,13:15,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1380,2,07:15,13:15,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1410,2,06:45,13:15,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1510,2,08:45,16:55,Saturday,26/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),709,1450,1,11:20,18:30,Saturday,26/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),743,1390,2,06:55,13:05,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),783,1455,2,06:00,13:15,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),835,1280,2,08:45,13:05,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),835,1340,2,07:45,13:05,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),835,1370,2,07:15,13:05,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),840,1190,2,19:45,22:35,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),840,1310,2,17:45,22:35,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),840,1370,2,11:45,17:35,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),842,1185,2,19:50,22:35,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),871,1280,2,10:45,15:05,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),871,1400,2,08:45,15:05,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),871,1460,2,07:45,15:05,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),871,1490,2,07:15,15:05,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),871,1520,2,06:45,15:05,Saturday,26/08/2023
+KLM,Berlin (BER),Tokyo (NRT),888,1175,1,06:00,08:35,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1175,2,14:45,17:20,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1355,2,11:45,17:20,Saturday,26/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),461,1345,1,09:35,15:00,Sunday,27/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),562,1610,2,09:35,19:25,Sunday,27/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),562,2565,2,09:35,11:20,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1420,2,07:00,13:40,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),642,1435,2,07:00,13:55,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1195,2,10:45,13:40,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1340,2,10:45,16:05,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1375,2,07:45,13:40,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1405,2,07:15,13:40,Sunday,27/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),668,1135,1,16:40,18:35,Sunday,27/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),668,1530,1,10:05,18:35,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1350,2,07:45,13:15,Sunday,27/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),718,1390,2,06:55,13:05,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),759,1265,2,09:35,13:40,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),759,1280,2,09:35,13:55,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),759,1410,2,09:35,16:05,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),768,1290,2,08:45,13:15,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),776,1315,2,08:45,13:40,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1340,2,07:45,13:05,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1370,2,07:15,13:05,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),815,1310,2,17:45,22:35,Sunday,27/08/2023
+Singapore Airlines,Berlin (BER),Tokyo (NRT),848,1495,1,09:35,17:30,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),871,1280,2,10:45,15:05,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),889,1185,2,10:55,13:40,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),889,1200,2,10:55,13:55,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1195,2,10:45,13:40,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1315,2,08:45,13:40,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1340,2,10:45,16:05,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1345,2,08:15,13:40,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1375,2,07:45,13:40,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),662,1400,2,09:55,16:15,Monday,28/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),709,980,1,19:10,18:30,Monday,28/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),709,1450,1,11:20,18:30,Monday,28/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),718,1390,2,06:55,13:05,Monday,28/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),736,1135,1,16:40,18:35,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),772,1275,2,09:00,13:15,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),776,1255,2,09:45,13:40,Monday,28/08/2023
+KLM,Berlin (BER),Tokyo (NRT),799,2200,2,20:40,16:20,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),804,1365,2,07:20,13:05,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1280,2,08:45,13:05,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1310,2,08:15,13:05,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1340,2,07:45,13:05,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1370,2,07:15,13:05,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),815,1190,2,19:45,22:35,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),871,1280,2,10:45,15:05,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1235,2,13:45,17:20,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),906,1215,2,09:50,13:05,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),906,1210,2,10:45,13:55,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),906,1270,2,09:45,13:55,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),906,1330,2,08:45,13:55,Monday,28/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1255,2,09:45,13:40,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1315,2,08:45,13:40,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1345,2,08:15,13:40,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1375,2,07:45,13:40,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1400,2,09:45,16:05,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1405,2,07:15,13:40,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1435,2,06:45,13:40,Tuesday,29/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),668,1135,1,16:40,18:35,Tuesday,29/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),668,1530,1,10:05,18:35,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),692,1275,2,09:00,13:15,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1290,2,08:45,13:15,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1320,2,08:15,13:15,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1350,2,07:45,13:15,Tuesday,29/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),718,1390,2,06:55,13:05,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1390,2,06:55,13:05,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1195,2,10:45,13:40,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1340,2,10:45,16:05,Tuesday,29/08/2023
+KLM,Berlin (BER),Tokyo (NRT),724,1130,2,14:30,16:20,Tuesday,29/08/2023
+KLM,Berlin (BER),Tokyo (NRT),724,1265,2,12:15,16:20,Tuesday,29/08/2023
+KLM,Berlin (BER),Tokyo (NRT),724,1355,2,10:45,16:20,Tuesday,29/08/2023
+KLM,Berlin (BER),Tokyo (NRT),724,1455,2,09:05,16:20,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),776,1210,2,10:45,13:55,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),776,1270,2,09:45,13:55,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),776,1330,2,08:45,13:55,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),776,1360,2,08:15,13:55,Tuesday,29/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),491,1345,1,09:35,15:00,Wednesday,30/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),592,1610,2,09:35,19:25,Wednesday,30/08/2023
+Scoot,Berlin (BER),Tokyo (NRT),592,2565,2,09:35,11:20,Wednesday,30/08/2023
+LOT-Polish Airlines,Berlin (BER),Tokyo (NRT),637,980,1,19:10,18:30,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1185,2,10:55,13:40,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),642,1200,2,10:55,13:55,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1265,2,09:35,13:40,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),642,1280,2,09:35,13:55,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1330,2,10:55,16:05,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1410,2,09:35,16:05,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),642,1420,2,07:00,13:40,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),642,1435,2,07:00,13:55,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1195,2,10:45,13:40,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1315,2,08:45,13:40,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1340,2,10:45,16:05,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1345,2,08:15,13:40,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1375,2,07:45,13:40,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1405,2,07:15,13:40,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1435,2,06:45,13:40,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1460,2,08:45,16:05,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),662,1400,2,09:55,16:15,Wednesday,30/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),668,1135,1,16:40,18:35,Wednesday,30/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),668,1530,1,10:05,18:35,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1290,2,08:45,13:15,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1320,2,08:15,13:15,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1315,2,08:45,13:40,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1345,2,08:15,13:40,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1375,2,07:45,13:40,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),659,1405,2,07:15,13:40,Thursday,31/08/2023
+Qatar Airways,Berlin (BER),Tokyo (NRT),668,1135,1,16:40,18:35,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1290,2,08:45,13:15,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),708,1320,2,08:15,13:15,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1390,2,06:55,13:05,Thursday,31/08/2023
+Etihad Airways,Berlin (BER),Tokyo (NRT),718,1390,2,06:55,13:05,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1195,2,10:45,13:40,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),718,1340,2,10:45,16:05,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),772,1275,2,09:00,13:15,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),776,1255,2,09:45,13:40,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),776,1400,2,09:45,16:05,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1280,2,08:45,13:05,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1310,2,08:15,13:05,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1340,2,07:45,13:05,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),810,1370,2,07:15,13:05,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (HND),815,1310,2,17:45,22:35,Thursday,31/08/2023
+KLM,Berlin (BER),Tokyo (NRT),888,1130,2,14:30,16:20,Thursday,31/08/2023
+KLM,Berlin (BER),Tokyo (NRT),888,1265,2,12:15,16:20,Thursday,31/08/2023
+KLM,Berlin (BER),Tokyo (NRT),888,1355,2,10:45,16:20,Thursday,31/08/2023
+KLM,Berlin (BER),Tokyo (NRT),888,1455,2,09:05,16:20,Thursday,31/08/2023
+Air France,Berlin (BER),Tokyo (NRT),895,1735,1,20:30,08:25,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),Tokyo (NRT),901,1175,2,14:45,17:20,Thursday,31/08/2023

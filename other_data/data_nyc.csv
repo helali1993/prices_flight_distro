@@ -1,0 +1,776 @@
+Airline,Departure,Arrival,price,Duration,Stops,Departure Time,Arrival Time,Day of the Week,Day of the Month
+TAP Portugal,Berlin (BER),New York (JFK),517,915,2,10:50,20:05,Tuesday,1/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),517,1035,2,08:50,20:05,Tuesday,1/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),524,920,2,10:45,20:05,Tuesday,1/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Tuesday,1/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Tuesday,1/08/2023
+Icelandair,Berlin (BER),Newark (EWR),611,665,1,14:10,19:15,Tuesday,1/08/2023
+Icelandair,Berlin (BER),New York (JFK),611,1075,1,07:15,19:10,Tuesday,1/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1925,1,09:45,11:50,Tuesday,1/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),836,880,1,10:40,19:20,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1055,1,10:40,22:15,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,1080,1,10:40,22:40,Tuesday,1/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),899,2065,1,11:20,15:45,Tuesday,1/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Tuesday,1/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,935,1,11:20,20:55,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),1020,1010,1,07:00,17:50,Tuesday,1/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Tuesday,1/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Tuesday,1/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Tuesday,1/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Tuesday,1/08/2023
+KLM,Berlin (BER),New York (JFK),1179,775,1,06:00,12:55,Tuesday,1/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Tuesday,1/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Tuesday,1/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Tuesday,1/08/2023
+KLM,Berlin (BER),New York (JFK),1185,770,1,12:15,19:05,Tuesday,1/08/2023
+Air France,Berlin (BER),New York (JFK),1187,745,1,06:15,12:40,Tuesday,1/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Wednesday,2/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),464,685,1,12:10,17:35,Wednesday,2/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),501,860,1,13:10,21:30,Wednesday,2/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),501,920,1,06:00,15:20,Wednesday,2/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Wednesday,2/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Wednesday,2/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Wednesday,2/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),579,1710,1,21:45,20:15,Wednesday,2/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1595,1,20:40,17:15,Wednesday,2/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1010,1,07:00,17:50,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1055,1,10:40,22:15,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,1080,1,10:40,22:40,Wednesday,2/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),899,1595,1,19:10,15:45,Wednesday,2/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Wednesday,2/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Wednesday,2/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Wednesday,2/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Wednesday,2/08/2023
+KLM,Berlin (BER),New York (JFK),1179,775,1,06:00,12:55,Wednesday,2/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Wednesday,2/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Wednesday,2/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Wednesday,2/08/2023
+KLM,Berlin (BER),New York (JFK),1185,770,1,12:15,19:05,Wednesday,2/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),457,915,2,10:50,20:05,Thursday,3/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Thursday,3/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,1075,1,07:15,19:10,Thursday,3/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Thursday,3/08/2023
+Icelandair,Berlin (BER),New York (JFK),611,660,1,14:10,19:10,Thursday,3/08/2023
+Icelandair,Berlin (BER),Newark (EWR),611,665,1,14:10,19:15,Thursday,3/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),617,920,1,10:55,20:15,Thursday,3/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),624,1690,1,22:05,20:15,Thursday,3/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,810,1,09:45,17:15,Thursday,3/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),842,880,1,10:40,19:20,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1055,1,10:40,22:15,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,1080,1,10:40,22:40,Thursday,3/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),899,1595,1,19:10,15:45,Thursday,3/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Thursday,3/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,935,1,11:20,20:55,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),1020,1010,1,07:00,17:50,Thursday,3/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Thursday,3/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Thursday,3/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Thursday,3/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Thursday,3/08/2023
+KLM,Berlin (BER),New York (JFK),1179,775,1,06:00,12:55,Thursday,3/08/2023
+Air France,Berlin (BER),New York (JFK),1183,795,1,06:15,13:30,Thursday,3/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Thursday,3/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Thursday,3/08/2023
+KLM,Berlin (BER),New York (JFK),1185,770,1,12:15,19:05,Thursday,3/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Friday,4/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),460,685,1,12:10,17:35,Friday,4/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),501,860,1,13:10,21:30,Friday,4/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),501,920,1,06:00,15:20,Friday,4/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Friday,4/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Friday,4/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Friday,4/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),637,930,1,10:45,20:15,Friday,4/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),694,1690,1,22:05,20:15,Friday,4/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,1595,1,20:40,17:15,Friday,4/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),842,880,1,10:40,19:20,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1055,1,10:40,22:15,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,1080,1,10:40,22:40,Friday,4/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,770,1,11:20,18:10,Friday,4/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),1020,1010,1,07:00,17:50,Friday,4/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Friday,4/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Friday,4/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Friday,4/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Friday,4/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Friday,4/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Friday,4/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Friday,4/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Saturday,5/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Saturday,5/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,1075,1,07:15,19:10,Saturday,5/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),591,920,1,06:00,15:20,Saturday,5/08/2023
+Icelandair,Berlin (BER),Newark (EWR),611,665,1,14:10,19:15,Saturday,5/08/2023
+Icelandair,Berlin (BER),Newark (EWR),611,1080,1,07:15,19:15,Saturday,5/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),664,1695,1,22:00,20:15,Saturday,5/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),747,925,1,10:50,20:15,Saturday,5/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,810,1,09:45,17:15,Saturday,5/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),834,920,2,10:45,20:05,Saturday,5/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),842,880,1,10:40,19:20,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),855,915,1,13:00,22:15,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),855,940,1,13:00,22:40,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),855,1055,1,10:40,22:15,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),855,1080,1,10:40,22:40,Saturday,5/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Saturday,5/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,2065,1,11:20,15:45,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),1025,1010,1,07:00,17:50,Saturday,5/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Saturday,5/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Saturday,5/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Saturday,5/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Saturday,5/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Saturday,5/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Saturday,5/08/2023
+KLM,Berlin (BER),New York (JFK),1185,770,1,12:15,19:05,Saturday,5/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Sunday,6/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),460,685,1,12:10,17:35,Sunday,6/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),501,860,1,13:10,21:30,Sunday,6/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Sunday,6/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Sunday,6/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),591,920,1,06:00,15:20,Sunday,6/08/2023
+Icelandair,Berlin (BER),New York (JFK),611,660,1,14:10,19:10,Sunday,6/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),644,1710,1,21:45,20:15,Sunday,6/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),657,925,1,10:50,20:15,Sunday,6/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1270,1,20:40,11:50,Sunday,6/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),842,880,1,10:40,19:20,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),855,1055,1,10:40,22:15,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),855,1080,1,10:40,22:40,Sunday,6/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,1595,1,19:10,15:45,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),1025,1010,1,07:00,17:50,Sunday,6/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Sunday,6/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Sunday,6/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Sunday,6/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Sunday,6/08/2023
+KLM,Berlin (BER),New York (JFK),1179,775,1,06:00,12:55,Sunday,6/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Sunday,6/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Sunday,6/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Sunday,6/08/2023
+KLM,Berlin (BER),New York (JFK),1185,770,1,12:15,19:05,Sunday,6/08/2023
+KLM,Berlin (BER),New York (JFK),1185,805,1,09:05,16:30,Sunday,6/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),460,685,1,12:10,17:35,Monday,7/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),591,775,1,13:10,20:05,Monday,7/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),591,1205,1,06:00,20:05,Monday,7/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),624,1710,1,21:45,20:15,Monday,7/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),637,930,1,10:45,20:15,Monday,7/08/2023
+Icelandair,Berlin (BER),New York (JFK),676,830,1,14:10,22:00,Monday,7/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1925,1,09:45,11:50,Monday,7/08/2023
+Icelandair,Berlin (BER),Newark (EWR),751,665,1,14:10,19:15,Monday,7/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),842,880,1,10:40,19:20,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1055,1,10:40,22:15,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,1080,1,10:40,22:40,Monday,7/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),899,1595,1,19:10,15:45,Monday,7/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),1020,1010,1,07:00,17:50,Monday,7/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Monday,7/08/2023
+Delta,Berlin (BER),New York (JFK),1162,680,1,09:05,14:25,Monday,7/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Monday,7/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Monday,7/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Monday,7/08/2023
+KLM,Berlin (BER),New York (JFK),1179,775,1,06:00,12:55,Monday,7/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Monday,7/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Monday,7/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Monday,7/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),457,915,2,10:50,20:05,Tuesday,8/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),464,920,2,10:45,20:05,Tuesday,8/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),464,980,2,09:45,20:05,Tuesday,8/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Tuesday,8/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Tuesday,8/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,1075,1,07:15,19:10,Tuesday,8/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Tuesday,8/08/2023
+Icelandair,Berlin (BER),New York (JFK),611,660,1,14:10,19:10,Tuesday,8/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),647,930,1,10:45,20:15,Tuesday,8/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1925,1,09:45,11:50,Tuesday,8/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),842,880,1,10:40,19:20,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1055,1,10:40,22:15,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,1080,1,10:40,22:40,Tuesday,8/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Tuesday,8/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,935,1,11:20,20:55,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),1020,1010,1,07:00,17:50,Tuesday,8/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Tuesday,8/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Tuesday,8/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Tuesday,8/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Tuesday,8/08/2023
+KLM,Berlin (BER),New York (JFK),1179,775,1,06:00,12:55,Tuesday,8/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Tuesday,8/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Tuesday,8/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Tuesday,8/08/2023
+KLM,Berlin (BER),New York (JFK),1185,770,1,12:15,19:05,Tuesday,8/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),437,685,1,12:10,17:35,Wednesday,9/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Wednesday,9/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),501,860,1,13:10,21:30,Wednesday,9/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),501,920,1,06:00,15:20,Wednesday,9/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Wednesday,9/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Wednesday,9/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Wednesday,9/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),614,1710,1,21:45,20:15,Wednesday,9/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1595,1,20:40,17:15,Wednesday,9/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1010,1,07:00,17:50,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1055,1,10:40,22:15,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,1080,1,10:40,22:40,Wednesday,9/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),899,1595,1,19:10,15:45,Wednesday,9/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Wednesday,9/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Wednesday,9/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Wednesday,9/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Wednesday,9/08/2023
+Air France,Berlin (BER),New York (JFK),1183,795,1,06:15,13:30,Wednesday,9/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Wednesday,9/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Wednesday,9/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Wednesday,9/08/2023
+KLM,Berlin (BER),New York (JFK),1185,770,1,12:15,19:05,Wednesday,9/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),457,915,2,10:50,20:05,Thursday,10/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),524,980,2,09:45,20:05,Thursday,10/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Thursday,10/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Thursday,10/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Thursday,10/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,1075,1,07:15,19:10,Thursday,10/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),624,1690,1,22:05,20:15,Thursday,10/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),627,920,1,10:55,20:15,Thursday,10/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,810,1,09:45,17:15,Thursday,10/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1010,1,07:00,17:50,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1055,1,10:40,22:15,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,1080,1,10:40,22:40,Thursday,10/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Thursday,10/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,935,1,11:20,20:55,Thursday,10/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Thursday,10/08/2023
+Delta,Berlin (BER),New York (JFK),1162,680,1,09:05,14:25,Thursday,10/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Thursday,10/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Thursday,10/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Thursday,10/08/2023
+Air France,Berlin (BER),New York (JFK),1183,795,1,06:15,13:30,Thursday,10/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Thursday,10/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Thursday,10/08/2023
+KLM,Berlin (BER),New York (JFK),1185,770,1,12:15,19:05,Thursday,10/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Friday,11/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),460,685,1,12:10,17:35,Friday,11/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Friday,11/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Friday,11/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Friday,11/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),591,920,1,06:00,15:20,Friday,11/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),647,930,1,10:45,20:15,Friday,11/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),654,1690,1,22:05,20:15,Friday,11/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,1595,1,20:40,17:15,Friday,11/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1010,1,07:00,17:50,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1055,1,10:40,22:15,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,1080,1,10:40,22:40,Friday,11/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,770,1,11:20,18:10,Friday,11/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Friday,11/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Friday,11/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Friday,11/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Friday,11/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Friday,11/08/2023
+KLM,Berlin (BER),New York (JFK),1179,775,1,06:00,12:55,Friday,11/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Friday,11/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Friday,11/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Friday,11/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Saturday,12/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Saturday,12/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Saturday,12/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,1075,1,07:15,19:10,Saturday,12/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Saturday,12/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),591,920,1,06:00,15:20,Saturday,12/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),591,1205,1,06:00,20:05,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),619,920,2,10:45,20:05,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),664,1695,1,22:00,20:15,Saturday,12/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),687,925,1,10:50,20:15,Saturday,12/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,810,1,09:45,17:15,Saturday,12/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),836,880,1,10:40,19:20,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),855,915,1,13:00,22:15,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),855,940,1,13:00,22:40,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),855,1010,1,07:00,17:50,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),855,1055,1,10:40,22:15,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),855,1080,1,10:40,22:40,Saturday,12/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Saturday,12/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Saturday,12/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Saturday,12/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Saturday,12/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Saturday,12/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Saturday,12/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Saturday,12/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Saturday,12/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),437,685,1,12:10,17:35,Sunday,13/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Sunday,13/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),501,860,1,13:10,21:30,Sunday,13/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Sunday,13/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Sunday,13/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),591,920,1,06:00,15:20,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),624,1710,1,21:45,20:15,Sunday,13/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),637,925,1,10:50,20:15,Sunday,13/08/2023
+Icelandair,Berlin (BER),New York (JFK),676,660,1,14:10,19:10,Sunday,13/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1270,1,20:40,11:50,Sunday,13/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Sunday,13/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),855,1010,1,07:00,17:50,Sunday,13/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),855,1055,1,10:40,22:15,Sunday,13/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),855,1080,1,10:40,22:40,Sunday,13/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,1595,1,19:10,15:45,Sunday,13/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Sunday,13/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Sunday,13/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Sunday,13/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Sunday,13/08/2023
+KLM,Berlin (BER),New York (JFK),1179,775,1,06:00,12:55,Sunday,13/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Sunday,13/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Sunday,13/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Sunday,13/08/2023
+KLM,Berlin (BER),New York (JFK),1185,770,1,12:15,19:05,Sunday,13/08/2023
+KLM,Berlin (BER),New York (JFK),1185,805,1,09:05,16:30,Sunday,13/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),352,685,1,12:10,17:35,Monday,14/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Monday,14/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),441,860,1,13:10,21:30,Monday,14/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),441,920,1,06:00,15:20,Monday,14/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Monday,14/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Monday,14/08/2023
+Icelandair,Berlin (BER),New York (JFK),611,660,1,14:10,19:10,Monday,14/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),634,1710,1,21:45,20:15,Monday,14/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),647,930,1,10:45,20:15,Monday,14/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1925,1,09:45,11:50,Monday,14/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),836,880,1,10:40,19:20,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1010,1,07:00,17:50,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1055,1,10:40,22:15,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,1080,1,10:40,22:40,Monday,14/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),899,1595,1,19:10,15:45,Monday,14/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Monday,14/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Monday,14/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Monday,14/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Monday,14/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Monday,14/08/2023
+KLM,Berlin (BER),New York (JFK),1179,775,1,06:00,12:55,Monday,14/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Monday,14/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Monday,14/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),405,2055,1,17:15,21:30,Tuesday,15/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),457,915,2,10:50,20:05,Tuesday,15/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),464,920,2,10:45,20:05,Tuesday,15/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),464,980,2,09:45,20:05,Tuesday,15/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Tuesday,15/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Tuesday,15/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Tuesday,15/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Tuesday,15/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),657,930,1,10:45,20:15,Tuesday,15/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1925,1,09:45,11:50,Tuesday,15/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Tuesday,15/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1010,1,07:00,17:50,Tuesday,15/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Tuesday,15/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,935,1,11:20,20:55,Tuesday,15/08/2023
+Singapore Airlines,Berlin (BER),New York (JFK),1073,1285,1,19:45,11:10,Tuesday,15/08/2023
+Delta,Berlin (BER),New York (JFK),1158,530,0,09:40,12:30,Tuesday,15/08/2023
+Air France,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Tuesday,15/08/2023
+KLM,Berlin (BER),New York (JFK),1175,530,0,09:40,12:30,Tuesday,15/08/2023
+KLM,Berlin (BER),New York (JFK),1179,680,1,09:05,14:25,Tuesday,15/08/2023
+KLM,Berlin (BER),New York (JFK),1179,775,1,06:00,12:55,Tuesday,15/08/2023
+Air France,Berlin (BER),New York (JFK),1183,795,1,06:15,13:30,Tuesday,15/08/2023
+KLM,Berlin (BER),New York (JFK),1185,615,1,12:15,16:30,Tuesday,15/08/2023
+KLM,Berlin (BER),New York (JFK),1185,635,1,14:30,19:05,Tuesday,15/08/2023
+KLM,Berlin (BER),New York (JFK),1185,740,1,09:05,15:25,Tuesday,15/08/2023
+KLM,Berlin (BER),New York (JFK),1185,770,1,12:15,19:05,Tuesday,15/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),401,860,1,13:10,21:30,Wednesday,16/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),401,920,1,06:00,15:20,Wednesday,16/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),437,685,1,12:10,17:35,Wednesday,16/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Wednesday,16/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Wednesday,16/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Wednesday,16/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),604,1710,1,21:45,20:15,Wednesday,16/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1595,1,20:40,17:15,Wednesday,16/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),779,1595,1,19:10,15:45,Wednesday,16/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Wednesday,16/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Wednesday,16/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Wednesday,16/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Wednesday,16/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Wednesday,16/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Wednesday,16/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Wednesday,16/08/2023
+KLM,Berlin (BER),New York (JFK),1039,775,1,06:00,12:55,Wednesday,16/08/2023
+Air France,Berlin (BER),New York (JFK),1043,795,1,06:15,13:30,Wednesday,16/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Wednesday,16/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Wednesday,16/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Wednesday,16/08/2023
+KLM,Berlin (BER),New York (JFK),1045,770,1,12:15,19:05,Wednesday,16/08/2023
+KLM,Berlin (BER),New York (JFK),1045,805,1,09:05,16:30,Wednesday,16/08/2023
+Air France,Berlin (BER),New York (JFK),1047,745,1,06:15,12:40,Wednesday,16/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),517,915,2,10:50,20:05,Thursday,17/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),524,920,2,10:45,20:05,Thursday,17/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),524,980,2,09:45,20:05,Thursday,17/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Thursday,17/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Thursday,17/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Thursday,17/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,1075,1,07:15,19:10,Thursday,17/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),617,920,1,10:55,20:15,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),624,1690,1,22:05,20:15,Thursday,17/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,810,1,09:45,17:15,Thursday,17/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Thursday,17/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1010,1,07:00,17:50,Thursday,17/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Thursday,17/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,935,1,11:20,20:55,Thursday,17/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Thursday,17/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Thursday,17/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Thursday,17/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Thursday,17/08/2023
+KLM,Berlin (BER),New York (JFK),1039,775,1,06:00,12:55,Thursday,17/08/2023
+Air France,Berlin (BER),New York (JFK),1043,795,1,06:15,13:30,Thursday,17/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Thursday,17/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Thursday,17/08/2023
+KLM,Berlin (BER),New York (JFK),1045,770,1,12:15,19:05,Thursday,17/08/2023
+Air France,Berlin (BER),New York (JFK),1047,745,1,06:15,12:40,Thursday,17/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),352,685,1,12:10,17:35,Friday,18/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Friday,18/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),441,860,1,13:10,21:30,Friday,18/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),441,920,1,06:00,15:20,Friday,18/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Friday,18/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Friday,18/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Friday,18/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),614,1690,1,22:05,20:15,Friday,18/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),637,930,1,10:45,20:15,Friday,18/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,1595,1,20:40,17:15,Friday,18/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Friday,18/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Friday,18/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Friday,18/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Friday,18/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Friday,18/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Friday,18/08/2023
+KLM,Berlin (BER),New York (JFK),1039,775,1,06:00,12:55,Friday,18/08/2023
+Air France,Berlin (BER),New York (JFK),1043,795,1,06:15,13:30,Friday,18/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Friday,18/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Friday,18/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Friday,18/08/2023
+KLM,Berlin (BER),New York (JFK),1045,770,1,12:15,19:05,Friday,18/08/2023
+Air France,Berlin (BER),New York (JFK),1047,745,1,06:15,12:40,Friday,18/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,1205,1,06:00,20:05,Saturday,19/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),524,920,2,10:45,20:05,Saturday,19/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Saturday,19/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Saturday,19/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,1075,1,07:15,19:10,Saturday,19/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Saturday,19/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),591,920,1,06:00,15:20,Saturday,19/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),607,915,2,10:50,20:05,Saturday,19/08/2023
+Icelandair,Berlin (BER),Newark (EWR),611,665,1,14:10,19:15,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),634,1695,1,22:00,20:15,Saturday,19/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),647,925,1,10:50,20:15,Saturday,19/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,810,1,09:45,17:15,Saturday,19/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),855,915,1,13:00,22:15,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),855,940,1,13:00,22:40,Saturday,19/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Saturday,19/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,2065,1,11:20,15:45,Saturday,19/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Saturday,19/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Saturday,19/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Saturday,19/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Saturday,19/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Saturday,19/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Saturday,19/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Saturday,19/08/2023
+KLM,Berlin (BER),New York (JFK),1045,770,1,12:15,19:05,Saturday,19/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),275,685,1,12:10,17:35,Sunday,20/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),441,860,1,13:10,21:30,Sunday,20/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),501,775,1,13:10,20:05,Sunday,20/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),501,920,1,06:00,15:20,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),627,925,1,10:50,20:15,Sunday,20/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),644,1710,1,21:45,20:15,Sunday,20/08/2023
+Icelandair,Berlin (BER),New York (JFK),676,830,1,14:10,22:00,Sunday,20/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1270,1,20:40,11:50,Sunday,20/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),779,1595,1,19:10,15:45,Sunday,20/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Sunday,20/08/2023
+Icelandair,Berlin (BER),New York (JFK),841,660,1,14:10,19:10,Sunday,20/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),855,1010,1,07:00,17:50,Sunday,20/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Sunday,20/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Sunday,20/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Sunday,20/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Sunday,20/08/2023
+KLM,Berlin (BER),New York (JFK),1039,775,1,06:00,12:55,Sunday,20/08/2023
+Air France,Berlin (BER),New York (JFK),1043,795,1,06:15,13:30,Sunday,20/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Sunday,20/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Sunday,20/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Sunday,20/08/2023
+KLM,Berlin (BER),New York (JFK),1045,770,1,12:15,19:05,Sunday,20/08/2023
+KLM,Berlin (BER),New York (JFK),1045,805,1,09:05,16:30,Sunday,20/08/2023
+Air France,Berlin (BER),New York (JFK),1047,745,1,06:15,12:40,Sunday,20/08/2023
+Air France,Berlin (BER),New York (JFK),1047,750,1,12:10,18:40,Sunday,20/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),241,685,1,12:10,17:35,Monday,21/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Monday,21/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),441,860,1,13:10,21:30,Monday,21/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),441,920,1,06:00,15:20,Monday,21/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,1205,1,06:00,20:05,Monday,21/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Monday,21/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Monday,21/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Monday,21/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),624,1710,1,21:45,20:15,Monday,21/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),657,930,1,10:45,20:15,Monday,21/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1925,1,09:45,11:50,Monday,21/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),779,1595,1,19:10,15:45,Monday,21/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Monday,21/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Monday,21/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Monday,21/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Monday,21/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Monday,21/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Monday,21/08/2023
+KLM,Berlin (BER),New York (JFK),1039,775,1,06:00,12:55,Monday,21/08/2023
+Air France,Berlin (BER),New York (JFK),1043,795,1,06:15,13:30,Monday,21/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Monday,21/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Monday,21/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Monday,21/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),517,915,2,10:50,20:05,Tuesday,22/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Tuesday,22/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Tuesday,22/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Tuesday,22/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,1075,1,07:15,19:10,Tuesday,22/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Tuesday,22/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),614,920,2,10:45,20:05,Tuesday,22/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),627,930,1,10:45,20:15,Tuesday,22/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1925,1,09:45,11:50,Tuesday,22/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),779,2065,1,11:20,15:45,Tuesday,22/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),816,880,1,10:40,19:20,Tuesday,22/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),817,1304,1,21:45,13:29,Tuesday,22/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1010,1,07:00,17:50,Tuesday,22/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Tuesday,22/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,935,1,11:20,20:55,Tuesday,22/08/2023
+Virgin Atlantic,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Tuesday,22/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Tuesday,22/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Tuesday,22/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Tuesday,22/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Tuesday,22/08/2023
+KLM,Berlin (BER),New York (JFK),1039,775,1,06:00,12:55,Tuesday,22/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Tuesday,22/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Tuesday,22/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Tuesday,22/08/2023
+KLM,Berlin (BER),New York (JFK),1045,770,1,12:15,19:05,Tuesday,22/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),241,685,1,12:10,17:35,Wednesday,23/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),401,860,1,13:10,21:30,Wednesday,23/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Wednesday,23/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),501,920,1,06:00,15:20,Wednesday,23/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Wednesday,23/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Wednesday,23/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Wednesday,23/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),624,1710,1,21:45,20:15,Wednesday,23/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1595,1,20:40,17:15,Wednesday,23/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),776,880,1,10:40,19:20,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Wednesday,23/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,1870,1,19:10,20:20,Wednesday,23/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Wednesday,23/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Wednesday,23/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Wednesday,23/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Wednesday,23/08/2023
+Air France,Berlin (BER),New York (JFK),1043,795,1,06:15,13:30,Wednesday,23/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Wednesday,23/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Wednesday,23/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Wednesday,23/08/2023
+KLM,Berlin (BER),New York (JFK),1045,770,1,12:15,19:05,Wednesday,23/08/2023
+KLM,Berlin (BER),New York (JFK),1045,805,1,09:05,16:30,Wednesday,23/08/2023
+Air France,Berlin (BER),New York (JFK),1047,745,1,06:15,12:40,Wednesday,23/08/2023
+Air France,Berlin (BER),New York (JFK),1047,750,1,12:10,18:40,Wednesday,23/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),457,915,2,10:50,20:05,Thursday,24/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),524,920,2,10:45,20:05,Thursday,24/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Thursday,24/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Thursday,24/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Thursday,24/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,1075,1,07:15,19:10,Thursday,24/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),614,1690,1,22:05,20:15,Thursday,24/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),637,920,1,10:55,20:15,Thursday,24/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,810,1,09:45,17:15,Thursday,24/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),776,880,1,10:40,19:20,Thursday,24/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),779,1595,1,19:10,15:45,Thursday,24/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1010,1,07:00,17:50,Thursday,24/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Thursday,24/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,935,1,11:20,20:55,Thursday,24/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Thursday,24/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Thursday,24/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Thursday,24/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Thursday,24/08/2023
+KLM,Berlin (BER),New York (JFK),1039,775,1,06:00,12:55,Thursday,24/08/2023
+Air France,Berlin (BER),New York (JFK),1043,795,1,06:15,13:30,Thursday,24/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Thursday,24/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Thursday,24/08/2023
+KLM,Berlin (BER),New York (JFK),1045,770,1,12:15,19:05,Thursday,24/08/2023
+Air France,Berlin (BER),New York (JFK),1047,745,1,06:15,12:40,Thursday,24/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),241,685,1,12:10,17:35,Friday,25/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Friday,25/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),441,920,1,06:00,15:20,Friday,25/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Friday,25/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Friday,25/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Friday,25/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),634,1690,1,22:05,20:15,Friday,25/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),677,930,1,10:45,20:15,Friday,25/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,1595,1,20:40,17:15,Friday,25/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),776,880,1,10:40,19:20,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Friday,25/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,770,1,11:20,18:10,Friday,25/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Friday,25/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Friday,25/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Friday,25/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Friday,25/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Friday,25/08/2023
+KLM,Berlin (BER),New York (JFK),1039,775,1,06:00,12:55,Friday,25/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Friday,25/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Friday,25/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Friday,25/08/2023
+KLM,Berlin (BER),New York (JFK),1045,770,1,12:15,19:05,Friday,25/08/2023
+Air France,Berlin (BER),New York (JFK),1047,745,1,06:15,12:40,Friday,25/08/2023
+Air France,Berlin (BER),New York (JFK),1047,750,1,12:10,18:40,Friday,25/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),457,1035,2,08:50,20:05,Saturday,26/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Saturday,26/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Saturday,26/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Saturday,26/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,1075,1,07:15,19:10,Saturday,26/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),559,920,2,10:45,20:05,Saturday,26/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),591,920,1,06:00,15:20,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),657,925,1,10:50,20:15,Saturday,26/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),664,1695,1,22:00,20:15,Saturday,26/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,810,1,09:45,17:15,Saturday,26/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),776,880,1,10:40,19:20,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),855,915,1,13:00,22:15,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),855,940,1,13:00,22:40,Saturday,26/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Saturday,26/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Saturday,26/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Saturday,26/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Saturday,26/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Saturday,26/08/2023
+KLM,Berlin (BER),New York (JFK),1039,775,1,06:00,12:55,Saturday,26/08/2023
+Air France,Berlin (BER),New York (JFK),1043,795,1,06:15,13:30,Saturday,26/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Saturday,26/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Saturday,26/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Saturday,26/08/2023
+KLM,Berlin (BER),New York (JFK),1045,770,1,12:15,19:05,Saturday,26/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),241,685,1,12:10,17:35,Sunday,27/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Sunday,27/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),441,860,1,13:10,21:30,Sunday,27/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),501,920,1,06:00,15:20,Sunday,27/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Sunday,27/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),624,1710,1,21:45,20:15,Sunday,27/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),667,925,1,10:50,20:15,Sunday,27/08/2023
+Icelandair,Berlin (BER),New York (JFK),676,660,1,14:10,19:10,Sunday,27/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1270,1,20:40,11:50,Sunday,27/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),779,1595,1,19:10,15:45,Sunday,27/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),817,1304,1,21:45,13:29,Sunday,27/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),855,1010,1,07:00,17:50,Sunday,27/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Sunday,27/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Sunday,27/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Sunday,27/08/2023
+KLM,Berlin (BER),New York (JFK),1039,775,1,06:00,12:55,Sunday,27/08/2023
+Air France,Berlin (BER),New York (JFK),1043,795,1,06:15,13:30,Sunday,27/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Sunday,27/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Sunday,27/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Sunday,27/08/2023
+KLM,Berlin (BER),New York (JFK),1045,770,1,12:15,19:05,Sunday,27/08/2023
+KLM,Berlin (BER),New York (JFK),1045,805,1,09:05,16:30,Sunday,27/08/2023
+Air France,Berlin (BER),New York (JFK),1047,745,1,06:15,12:40,Sunday,27/08/2023
+Air France,Berlin (BER),New York (JFK),1047,750,1,12:10,18:40,Sunday,27/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),241,685,1,12:10,17:35,Monday,28/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,775,1,13:10,20:05,Monday,28/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),441,860,1,13:10,21:30,Monday,28/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),441,920,1,06:00,15:20,Monday,28/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),441,1205,1,06:00,20:05,Monday,28/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Monday,28/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Monday,28/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Monday,28/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),614,1710,1,21:45,20:15,Monday,28/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),647,930,1,10:45,20:15,Monday,28/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1925,1,09:45,11:50,Monday,28/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),792,880,1,10:40,19:20,Monday,28/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Monday,28/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Monday,28/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),989,900,1,11:20,20:20,Monday,28/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Monday,28/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Monday,28/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Monday,28/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Monday,28/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Monday,28/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Monday,28/08/2023
+KLM,Berlin (BER),New York (JFK),1045,640,1,10:45,15:25,Monday,28/08/2023
+KLM,Berlin (BER),New York (JFK),1045,705,1,10:45,16:30,Monday,28/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Monday,28/08/2023
+KLM,Berlin (BER),New York (JFK),1045,770,1,12:15,19:05,Monday,28/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),401,1685,1,17:15,15:20,Tuesday,29/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),457,915,2,10:50,20:05,Tuesday,29/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),464,920,2,10:45,20:05,Tuesday,29/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Tuesday,29/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Tuesday,29/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Tuesday,29/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,1075,1,07:15,19:10,Tuesday,29/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Tuesday,29/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),637,930,1,10:45,20:15,Tuesday,29/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1925,1,09:45,11:50,Tuesday,29/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),776,880,1,10:40,19:20,Tuesday,29/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),779,900,1,11:20,20:20,Tuesday,29/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1010,1,07:00,17:50,Tuesday,29/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,935,1,11:20,20:55,Tuesday,29/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Tuesday,29/08/2023
+Delta,Berlin (BER),New York (JFK),1022,680,1,09:05,14:25,Tuesday,29/08/2023
+Delta,Berlin (BER),New York (JFK),1028,640,1,10:45,15:25,Tuesday,29/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Tuesday,29/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Tuesday,29/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Tuesday,29/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Tuesday,29/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Tuesday,29/08/2023
+KLM,Berlin (BER),New York (JFK),1045,640,1,10:45,15:25,Tuesday,29/08/2023
+KLM,Berlin (BER),New York (JFK),1045,705,1,10:45,16:30,Tuesday,29/08/2023
+KLM,Berlin (BER),New York (JFK),1045,740,1,09:05,15:25,Tuesday,29/08/2023
+Fly Play,Berlin (BER),Newburgh (SWF),241,685,1,12:10,17:35,Wednesday,30/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),362,860,1,13:10,21:30,Wednesday,30/08/2023
+TAP Portugal,Berlin (BER),Newark (EWR),362,920,1,06:00,15:20,Wednesday,30/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),402,775,1,13:10,20:05,Wednesday,30/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Wednesday,30/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Wednesday,30/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Wednesday,30/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),654,1710,1,21:45,20:15,Wednesday,30/08/2023
+Air Serbia,Berlin (BER),New York (JFK),735,1595,1,20:40,17:15,Wednesday,30/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),776,880,1,10:40,19:20,Wednesday,30/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),779,1595,1,19:10,15:45,Wednesday,30/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,915,1,13:00,22:15,Wednesday,30/08/2023
+Turkish Airlines,Berlin (BER),Newark (EWR),850,940,1,13:00,22:40,Wednesday,30/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Wednesday,30/08/2023
+Delta,Berlin (BER),New York (JFK),1022,680,1,09:05,14:25,Wednesday,30/08/2023
+Delta,Berlin (BER),New York (JFK),1026,775,1,09:55,16:50,Wednesday,30/08/2023
+Delta,Berlin (BER),New York (JFK),1028,615,1,12:15,16:30,Wednesday,30/08/2023
+Delta,Berlin (BER),New York (JFK),1030,745,1,06:15,12:40,Wednesday,30/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Wednesday,30/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Wednesday,30/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Wednesday,30/08/2023
+KLM,Berlin (BER),New York (JFK),1045,615,1,12:15,16:30,Wednesday,30/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Wednesday,30/08/2023
+KLM,Berlin (BER),New York (JFK),1045,640,1,10:45,15:25,Wednesday,30/08/2023
+KLM,Berlin (BER),New York (JFK),1045,705,1,10:45,16:30,Wednesday,30/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),418,915,2,10:50,20:05,Thursday,31/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),425,920,2,10:45,20:05,Thursday,31/08/2023
+TAP Portugal,Berlin (BER),New York (JFK),425,980,2,09:45,20:05,Thursday,31/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,660,1,14:10,19:10,Thursday,31/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,665,1,14:10,19:15,Thursday,31/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,830,1,14:10,22:00,Thursday,31/08/2023
+Icelandair,Berlin (BER),New York (JFK),556,1075,1,07:15,19:10,Thursday,31/08/2023
+Icelandair,Berlin (BER),Newark (EWR),556,1080,1,07:15,19:15,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),624,1690,1,22:05,20:15,Thursday,31/08/2023
+Multiple airlines,Berlin (BER),New York (JFK),647,920,1,10:55,20:15,Thursday,31/08/2023
+Air Serbia,Berlin (BER),New York (JFK),760,810,1,09:45,17:15,Thursday,31/08/2023
+Aer Lingus,Berlin (BER),New York (JFK),776,880,1,10:40,19:20,Thursday,31/08/2023
+LOT-Polish Airlines,Berlin (BER),New York (JFK),779,900,1,11:20,20:20,Thursday,31/08/2023
+Turkish Airlines,Berlin (BER),New York (JFK),850,1010,1,07:00,17:50,Thursday,31/08/2023
+LOT-Polish Airlines,Berlin (BER),Newark (EWR),989,935,1,11:20,20:55,Thursday,31/08/2023
+Delta,Berlin (BER),New York (JFK),1018,530,0,09:40,12:30,Thursday,31/08/2023
+Delta,Berlin (BER),New York (JFK),1022,680,1,09:05,14:25,Thursday,31/08/2023
+Delta,Berlin (BER),New York (JFK),1026,775,1,09:55,16:50,Thursday,31/08/2023
+Delta,Berlin (BER),New York (JFK),1026,795,1,06:15,13:30,Thursday,31/08/2023
+Delta,Berlin (BER),New York (JFK),1030,745,1,06:15,12:40,Thursday,31/08/2023
+KLM,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Thursday,31/08/2023
+Air France,Berlin (BER),New York (JFK),1035,530,0,09:40,12:30,Thursday,31/08/2023
+KLM,Berlin (BER),New York (JFK),1039,680,1,09:05,14:25,Thursday,31/08/2023
+KLM,Berlin (BER),New York (JFK),1039,775,1,06:00,12:55,Thursday,31/08/2023
+KLM,Berlin (BER),New York (JFK),1045,635,1,14:30,19:05,Thursday,31/08/2023

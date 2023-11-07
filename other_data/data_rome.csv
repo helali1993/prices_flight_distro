@@ -1,0 +1,776 @@
+Airline,Departure,Arrival,price,Duration,Stops,Departure Time,Arrival Time,Day of the Week,Day of the Month
+Eurowings,Berlin (BER),Rome (FCO),110,335,1,13:10,18:45,Tuesday,1/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,515,1,10:10,18:45,Tuesday,1/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,535,1,09:50,18:45,Tuesday,1/08/2023
+Norwegian Air International Ltd,Berlin (BER),Rome (FCO),119,735,1,21:55,10:10,Tuesday,1/08/2023
+Air France,Berlin (BER),Rome (FCO),136,305,1,18:00,23:05,Tuesday,1/08/2023
+KLM,Berlin (BER),Rome (FCO),147,350,1,06:00,11:50,Tuesday,1/08/2023
+KLM,Berlin (BER),Rome (FCO),152,255,1,14:30,18:45,Tuesday,1/08/2023
+KLM,Berlin (BER),Rome (FCO),152,260,1,12:15,16:35,Tuesday,1/08/2023
+KLM,Berlin (BER),Rome (FCO),152,315,1,17:30,22:45,Tuesday,1/08/2023
+KLM,Berlin (BER),Rome (FCO),152,390,1,12:15,18:45,Tuesday,1/08/2023
+KLM,Berlin (BER),Rome (FCO),152,450,1,09:05,16:35,Tuesday,1/08/2023
+KLM,Berlin (BER),Rome (FCO),152,495,1,14:30,22:45,Tuesday,1/08/2023
+KLM,Berlin (BER),Rome (FCO),152,580,1,09:05,18:45,Tuesday,1/08/2023
+KLM,Berlin (BER),Rome (FCO),152,630,1,12:15,22:45,Tuesday,1/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Tuesday,1/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,505,1,11:40,20:05,Tuesday,1/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,605,1,06:55,17:00,Tuesday,1/08/2023
+Luxair,Berlin (BER),Rome (FCO),158,665,1,08:45,19:50,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,230,1,19:45,23:35,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,240,1,13:45,17:45,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,290,1,18:45,23:35,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,360,1,11:45,17:45,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,410,1,16:45,23:35,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,420,1,10:45,17:45,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,480,1,09:45,17:45,Tuesday,1/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,245,1,14:40,18:45,Wednesday,2/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,295,1,13:50,18:45,Wednesday,2/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,345,1,13:00,18:45,Wednesday,2/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,275,1,10:20,14:55,Wednesday,2/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,360,1,08:55,14:55,Wednesday,2/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,280,1,15:35,20:15,Wednesday,2/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,375,1,14:00,20:15,Wednesday,2/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,415,1,08:00,14:55,Wednesday,2/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,470,1,07:05,14:55,Wednesday,2/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,490,1,12:05,20:15,Wednesday,2/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,505,1,06:30,14:55,Wednesday,2/08/2023
+Air France,Berlin (BER),Rome (FCO),136,305,1,18:00,23:05,Wednesday,2/08/2023
+KLM,Berlin (BER),Rome (FCO),147,495,1,14:30,22:45,Wednesday,2/08/2023
+KLM,Berlin (BER),Rome (FCO),152,255,1,14:30,18:45,Wednesday,2/08/2023
+KLM,Berlin (BER),Rome (FCO),152,315,1,17:30,22:45,Wednesday,2/08/2023
+KLM,Berlin (BER),Rome (FCO),152,390,1,12:15,18:45,Wednesday,2/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,605,1,06:55,17:00,Wednesday,2/08/2023
+Luxair,Berlin (BER),Rome (FCO),158,655,1,08:45,19:40,Wednesday,2/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,225,1,19:45,23:30,Wednesday,2/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,250,1,09:45,13:55,Wednesday,2/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,285,1,18:45,23:30,Wednesday,2/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,310,1,08:45,13:55,Wednesday,2/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,340,1,08:15,13:55,Wednesday,2/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,345,1,17:45,23:30,Wednesday,2/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,370,1,07:45,13:55,Wednesday,2/08/2023
+easyJet,Berlin (BER),Rome (FCO),75,135,0,17:20,19:35,Thursday,3/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,235,1,08:55,12:50,Thursday,3/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,250,1,16:30,20:40,Thursday,3/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,290,1,08:00,12:50,Thursday,3/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,340,1,15:00,20:40,Thursday,3/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,345,1,13:00,18:45,Thursday,3/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,380,1,06:30,12:50,Thursday,3/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,395,1,14:05,20:40,Thursday,3/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,490,1,12:30,20:40,Thursday,3/08/2023
+Norwegian Air International Ltd,Berlin (BER),Rome (FCO),131,385,1,14:20,20:45,Thursday,3/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,18:00,23:05,Thursday,3/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),152,310,1,15:50,21:00,Thursday,3/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,605,1,06:55,17:00,Thursday,3/08/2023
+Luxair,Berlin (BER),Rome (FCO),158,655,1,08:45,19:40,Thursday,3/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,225,1,19:45,23:30,Thursday,3/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,230,1,14:45,18:35,Thursday,3/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,240,1,13:45,17:45,Thursday,3/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,290,1,13:45,18:35,Thursday,3/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,345,1,17:45,23:30,Thursday,3/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,405,1,16:45,23:30,Thursday,3/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,410,1,11:45,18:35,Thursday,3/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,480,1,09:45,17:45,Thursday,3/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,525,1,14:45,23:30,Thursday,3/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,530,1,09:45,18:35,Thursday,3/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,540,1,08:45,17:45,Thursday,3/08/2023
+easyJet,Berlin (BER),Rome (FCO),87,135,0,15:10,17:25,Friday,4/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,270,1,14:15,18:45,Friday,4/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,345,1,13:00,18:45,Friday,4/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,515,1,10:10,18:45,Friday,4/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,265,1,16:20,20:45,Friday,4/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,275,1,10:20,14:55,Friday,4/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,345,1,15:00,20:45,Friday,4/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,415,1,08:00,14:55,Friday,4/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,480,1,12:45,20:45,Friday,4/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,505,1,06:30,14:55,Friday,4/08/2023
+KLM,Berlin (BER),Rome (FCO),124,350,1,06:00,11:50,Friday,4/08/2023
+KLM,Berlin (BER),Rome (FCO),147,260,1,12:15,16:35,Friday,4/08/2023
+KLM,Berlin (BER),Rome (FCO),147,390,1,12:15,18:45,Friday,4/08/2023
+KLM,Berlin (BER),Rome (FCO),152,255,1,14:30,18:45,Friday,4/08/2023
+KLM,Berlin (BER),Rome (FCO),152,495,1,14:30,22:45,Friday,4/08/2023
+KLM,Berlin (BER),Rome (FCO),177,315,1,17:30,22:45,Friday,4/08/2023
+Air Baltic,Berlin (BER),Rome (FCO),183,315,1,08:20,13:35,Friday,4/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),193,640,1,09:15,19:55,Friday,4/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,225,1,19:45,23:30,Friday,4/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,240,1,13:45,17:45,Friday,4/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,285,1,18:45,23:30,Friday,4/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,340,1,08:15,13:55,Friday,4/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,345,1,17:45,23:30,Friday,4/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,360,1,11:45,17:45,Friday,4/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,370,1,07:45,13:55,Friday,4/08/2023
+KLM,Berlin (BER),Rome (FCO),147,1005,1,06:00,22:45,Saturday,5/08/2023
+KLM,Berlin (BER),Rome (FCO),177,315,1,17:30,22:45,Saturday,5/08/2023
+KLM,Berlin (BER),Rome (FCO),177,350,1,06:00,11:50,Saturday,5/08/2023
+KLM,Berlin (BER),Rome (FCO),177,635,1,06:00,16:35,Saturday,5/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,230,1,14:45,18:35,Saturday,5/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,290,1,13:45,18:35,Saturday,5/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,410,1,11:45,18:35,Saturday,5/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,470,1,10:45,18:35,Saturday,5/08/2023
+Air France,Berlin (BER),Rome (FCO),215,305,1,18:00,23:05,Saturday,5/08/2023
+Air France,Berlin (BER),Rome (FCO),215,1010,1,06:15,23:05,Saturday,5/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,330,1,15:10,20:40,Saturday,5/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),224,310,1,15:50,21:00,Saturday,5/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),230,605,1,06:55,17:00,Saturday,5/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,590,1,08:45,18:35,Saturday,5/08/2023
+KLM,Berlin (BER),Rome (FCO),233,260,1,12:15,16:35,Saturday,5/08/2023
+KLM,Berlin (BER),Rome (FCO),233,390,1,12:15,18:45,Saturday,5/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),240,580,1,10:15,19:55,Saturday,5/08/2023
+Scandinavian Airlines,Berlin (BER),Rome (FCO),250,1075,1,16:35,10:30,Saturday,5/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),256,220,1,06:20,10:00,Saturday,5/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),256,345,1,06:20,12:05,Saturday,5/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),256,490,1,12:50,21:00,Saturday,5/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),262,320,1,11:40,17:00,Saturday,5/08/2023
+Swiss International Air Lines,Berlin (BER),Rome (FCO),265,245,1,18:45,22:50,Saturday,5/08/2023
+Swiss International Air Lines,Berlin (BER),Rome (FCO),265,590,1,09:35,19:25,Saturday,5/08/2023
+KLM,Berlin (BER),Rome (FCO),268,255,1,14:30,18:45,Saturday,5/08/2023
+easyJet,Berlin (BER),Rome (FCO),78,135,0,16:10,18:25,Sunday,6/08/2023
+KLM,Berlin (BER),Rome (FCO),104,1005,1,06:00,22:45,Sunday,6/08/2023
+Norwegian Air International Ltd,Berlin (BER),Rome (FCO),144,685,1,09:20,20:45,Sunday,6/08/2023
+KLM,Berlin (BER),Rome (FCO),147,260,1,12:15,16:35,Sunday,6/08/2023
+KLM,Berlin (BER),Rome (FCO),147,350,1,06:00,11:50,Sunday,6/08/2023
+KLM,Berlin (BER),Rome (FCO),147,495,1,14:30,22:45,Sunday,6/08/2023
+KLM,Berlin (BER),Rome (FCO),152,255,1,14:30,18:45,Sunday,6/08/2023
+KLM,Berlin (BER),Rome (FCO),152,315,1,17:30,22:45,Sunday,6/08/2023
+Air Baltic,Berlin (BER),Rome (FCO),172,1070,1,19:45,13:35,Sunday,6/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),183,580,1,10:15,19:55,Sunday,6/08/2023
+Air Malta,Berlin (BER),Rome (FCO),185,305,1,17:05,22:10,Sunday,6/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,235,1,13:45,17:40,Sunday,6/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,290,1,13:45,18:35,Sunday,6/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,345,1,17:45,23:30,Sunday,6/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,355,1,11:45,17:40,Sunday,6/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,405,1,16:45,23:30,Sunday,6/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,410,1,11:45,18:35,Sunday,6/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,415,1,10:45,17:40,Sunday,6/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,470,1,10:45,18:35,Sunday,6/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,220,1,17:00,20:40,Sunday,6/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,330,1,15:10,20:40,Sunday,6/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,670,1,21:00,08:10,Sunday,6/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),230,320,1,11:40,17:00,Sunday,6/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),230,505,1,11:40,20:05,Sunday,6/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),230,605,1,06:55,17:00,Sunday,6/08/2023
+easyJet,Berlin (BER),Rome (FCO),102,135,0,07:00,09:15,Monday,7/08/2023
+KLM,Berlin (BER),Rome (FCO),104,880,1,18:50,09:30,Monday,7/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,275,1,10:20,14:55,Monday,7/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,360,1,08:55,14:55,Monday,7/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,415,1,08:00,14:55,Monday,7/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,470,1,07:05,14:55,Monday,7/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,505,1,06:30,14:55,Monday,7/08/2023
+KLM,Berlin (BER),Rome (FCO),147,255,1,14:30,18:45,Monday,7/08/2023
+KLM,Berlin (BER),Rome (FCO),147,260,1,12:15,16:35,Monday,7/08/2023
+KLM,Berlin (BER),Rome (FCO),147,390,1,12:15,18:45,Monday,7/08/2023
+KLM,Berlin (BER),Rome (FCO),147,450,1,09:05,16:35,Monday,7/08/2023
+KLM,Berlin (BER),Rome (FCO),147,495,1,14:30,22:45,Monday,7/08/2023
+KLM,Berlin (BER),Rome (FCO),152,315,1,17:30,22:45,Monday,7/08/2023
+KLM,Berlin (BER),Rome (FCO),152,350,1,06:00,11:50,Monday,7/08/2023
+Luxair,Berlin (BER),Rome (FCO),158,655,1,08:45,19:40,Monday,7/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,225,1,19:45,23:30,Monday,7/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,230,1,14:45,18:35,Monday,7/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,285,1,18:45,23:30,Monday,7/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,345,1,17:45,23:30,Monday,7/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,360,1,11:45,17:45,Monday,7/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,405,1,16:45,23:30,Monday,7/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,410,1,11:45,18:35,Monday,7/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,480,1,09:45,17:45,Monday,7/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,525,1,14:45,23:30,Monday,7/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,370,1,12:35,18:45,Monday,7/08/2023
+Eurowings,Berlin (BER),Rome (FCO),80,335,1,13:10,18:45,Tuesday,8/08/2023
+Eurowings,Berlin (BER),Rome (FCO),80,515,1,10:10,18:45,Tuesday,8/08/2023
+Eurowings,Berlin (BER),Rome (FCO),80,535,1,09:50,18:45,Tuesday,8/08/2023
+KLM,Berlin (BER),Rome (FCO),104,255,1,14:30,18:45,Tuesday,8/08/2023
+KLM,Berlin (BER),Rome (FCO),104,495,1,14:30,22:45,Tuesday,8/08/2023
+Norwegian Air International Ltd,Berlin (BER),Rome (FCO),108,735,1,21:55,10:10,Tuesday,8/08/2023
+Air France,Berlin (BER),Rome (FCO),136,890,1,20:30,11:20,Tuesday,8/08/2023
+KLM,Berlin (BER),Rome (FCO),147,260,1,12:15,16:35,Tuesday,8/08/2023
+KLM,Berlin (BER),Rome (FCO),147,350,1,06:00,11:50,Tuesday,8/08/2023
+KLM,Berlin (BER),Rome (FCO),147,450,1,09:05,16:35,Tuesday,8/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,18:00,23:05,Tuesday,8/08/2023
+KLM,Berlin (BER),Rome (FCO),152,315,1,17:30,22:45,Tuesday,8/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Tuesday,8/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,505,1,11:40,20:05,Tuesday,8/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,605,1,06:55,17:00,Tuesday,8/08/2023
+Luxair,Berlin (BER),Rome (FCO),158,665,1,08:45,19:50,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,230,1,08:45,12:35,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,230,1,19:45,23:35,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,260,1,08:15,12:35,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,290,1,07:45,12:35,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,290,1,18:45,23:35,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,350,1,06:45,12:35,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,410,1,16:45,23:35,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,530,1,14:45,23:35,Tuesday,8/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,225,1,08:20,12:05,Tuesday,8/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,280,1,15:35,20:15,Wednesday,9/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,375,1,14:00,20:15,Wednesday,9/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,245,1,14:40,18:45,Wednesday,9/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,295,1,13:50,18:45,Wednesday,9/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,345,1,13:00,18:45,Wednesday,9/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,490,1,12:05,20:15,Wednesday,9/08/2023
+Air France,Berlin (BER),Rome (FCO),121,745,1,20:30,08:55,Wednesday,9/08/2023
+KLM,Berlin (BER),Rome (FCO),124,880,1,18:50,09:30,Wednesday,9/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,275,1,10:20,14:55,Wednesday,9/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,360,1,08:55,14:55,Wednesday,9/08/2023
+Luxair,Berlin (BER),Rome (FCO),132,655,1,08:45,19:40,Wednesday,9/08/2023
+Air France,Berlin (BER),Rome (FCO),136,305,1,06:15,11:20,Wednesday,9/08/2023
+KLM,Berlin (BER),Rome (FCO),147,350,1,06:00,11:50,Wednesday,9/08/2023
+KLM,Berlin (BER),Rome (FCO),152,255,1,14:30,18:45,Wednesday,9/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Wednesday,9/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,505,1,11:40,20:05,Wednesday,9/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,605,1,06:55,17:00,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,225,1,19:45,23:30,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,230,1,08:45,12:35,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,250,1,09:45,13:55,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,260,1,08:15,12:35,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,285,1,18:45,23:30,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,290,1,07:45,12:35,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,310,1,08:45,13:55,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,340,1,08:15,13:55,Wednesday,9/08/2023
+easyJet,Berlin (BER),Rome (FCO),75,135,0,17:20,19:35,Thursday,10/08/2023
+KLM,Berlin (BER),Rome (FCO),104,635,1,06:00,16:35,Thursday,10/08/2023
+KLM,Berlin (BER),Rome (FCO),124,350,1,06:00,11:50,Thursday,10/08/2023
+KLM,Berlin (BER),Rome (FCO),124,450,1,09:05,16:35,Thursday,10/08/2023
+KLM,Berlin (BER),Rome (FCO),124,580,1,09:05,18:45,Thursday,10/08/2023
+Norwegian Air International Ltd,Berlin (BER),Rome (FCO),124,705,1,21:55,09:40,Thursday,10/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,235,1,08:55,12:50,Thursday,10/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,250,1,16:30,20:40,Thursday,10/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,290,1,08:00,12:50,Thursday,10/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,340,1,15:00,20:40,Thursday,10/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,380,1,06:30,12:50,Thursday,10/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,395,1,14:05,20:40,Thursday,10/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,490,1,12:30,20:40,Thursday,10/08/2023
+Luxair,Berlin (BER),Rome (FCO),132,655,1,08:45,19:40,Thursday,10/08/2023
+Air France,Berlin (BER),Rome (FCO),136,305,1,06:15,11:20,Thursday,10/08/2023
+KLM,Berlin (BER),Rome (FCO),147,255,1,14:30,18:45,Thursday,10/08/2023
+KLM,Berlin (BER),Rome (FCO),147,260,1,12:15,16:35,Thursday,10/08/2023
+KLM,Berlin (BER),Rome (FCO),147,390,1,12:15,18:45,Thursday,10/08/2023
+KLM,Berlin (BER),Rome (FCO),147,495,1,14:30,22:45,Thursday,10/08/2023
+KLM,Berlin (BER),Rome (FCO),147,630,1,12:15,22:45,Thursday,10/08/2023
+Air France,Berlin (BER),Rome (FCO),152,320,1,12:10,17:30,Thursday,10/08/2023
+Air France,Berlin (BER),Rome (FCO),152,655,1,12:10,23:05,Thursday,10/08/2023
+KLM,Berlin (BER),Rome (FCO),152,315,1,17:30,22:45,Thursday,10/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Thursday,10/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,505,1,11:40,20:05,Thursday,10/08/2023
+easyJet,Berlin (BER),Rome (FCO),87,135,0,15:10,17:25,Friday,11/08/2023
+KLM,Berlin (BER),Rome (FCO),104,350,1,06:00,11:50,Friday,11/08/2023
+KLM,Berlin (BER),Rome (FCO),104,1005,1,06:00,22:45,Friday,11/08/2023
+KLM,Berlin (BER),Rome (FCO),124,260,1,12:15,16:35,Friday,11/08/2023
+KLM,Berlin (BER),Rome (FCO),124,390,1,12:15,18:45,Friday,11/08/2023
+KLM,Berlin (BER),Rome (FCO),147,255,1,14:30,18:45,Friday,11/08/2023
+KLM,Berlin (BER),Rome (FCO),147,495,1,14:30,22:45,Friday,11/08/2023
+KLM,Berlin (BER),Rome (FCO),152,315,1,17:30,22:45,Friday,11/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,265,1,16:20,20:45,Friday,11/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,270,1,14:15,18:45,Friday,11/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,275,1,10:20,14:55,Friday,11/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,345,1,13:00,18:45,Friday,11/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,345,1,15:00,20:45,Friday,11/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,415,1,08:00,14:55,Friday,11/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,480,1,12:45,20:45,Friday,11/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,505,1,06:30,14:55,Friday,11/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,515,1,10:10,18:45,Friday,11/08/2023
+Air Baltic,Berlin (BER),Rome (FCO),172,315,1,08:20,13:35,Friday,11/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),193,640,1,09:15,19:55,Friday,11/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),198,505,1,11:40,20:05,Friday,11/08/2023
+Luxair,Berlin (BER),Rome (FCO),217,655,1,08:45,19:40,Friday,11/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,220,1,17:00,20:40,Friday,11/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,330,1,15:10,20:40,Friday,11/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,565,1,11:15,20:40,Friday,11/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,670,1,21:00,08:10,Friday,11/08/2023
+KLM,Berlin (BER),Rome (FCO),124,315,1,17:30,22:45,Saturday,12/08/2023
+KLM,Berlin (BER),Rome (FCO),147,635,1,06:00,16:35,Saturday,12/08/2023
+KLM,Berlin (BER),Rome (FCO),152,350,1,06:00,11:50,Saturday,12/08/2023
+KLM,Berlin (BER),Rome (FCO),152,390,1,12:15,18:45,Saturday,12/08/2023
+KLM,Berlin (BER),Rome (FCO),177,255,1,14:30,18:45,Saturday,12/08/2023
+KLM,Berlin (BER),Rome (FCO),177,260,1,12:15,16:35,Saturday,12/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),183,580,1,10:15,19:55,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,230,1,14:45,18:35,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,240,1,13:45,17:45,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,290,1,07:45,12:35,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,290,1,13:45,18:35,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,360,1,11:45,17:45,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,410,1,11:45,18:35,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,420,1,10:45,17:45,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,470,1,10:45,18:35,Saturday,12/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,330,1,15:10,20:40,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),224,310,1,15:50,21:00,Saturday,12/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),230,605,1,06:55,17:00,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,370,1,07:45,13:55,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,540,1,08:45,17:45,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,590,1,08:45,18:35,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),233,375,2,06:20,12:35,Saturday,12/08/2023
+Air France,Berlin (BER),Rome (FCO),245,305,1,18:00,23:05,Saturday,12/08/2023
+British Airways,Berlin (BER),Rome (FCO),247,1040,1,21:00,14:20,Saturday,12/08/2023
+Scandinavian Airlines,Berlin (BER),Rome (FCO),250,1080,1,16:35,10:35,Saturday,12/08/2023
+easyJet,Berlin (BER),Rome (FCO),69,135,0,16:10,18:25,Sunday,13/08/2023
+KLM,Berlin (BER),Rome (FCO),147,495,1,14:30,22:45,Sunday,13/08/2023
+KLM,Berlin (BER),Rome (FCO),147,630,1,12:15,22:45,Sunday,13/08/2023
+KLM,Berlin (BER),Rome (FCO),152,260,1,12:15,16:35,Sunday,13/08/2023
+KLM,Berlin (BER),Rome (FCO),152,315,1,17:30,22:45,Sunday,13/08/2023
+KLM,Berlin (BER),Rome (FCO),152,350,1,06:00,11:50,Sunday,13/08/2023
+KLM,Berlin (BER),Rome (FCO),152,635,1,06:00,16:35,Sunday,13/08/2023
+Norwegian Air International Ltd,Berlin (BER),Rome (FCO),167,655,1,22:45,09:40,Sunday,13/08/2023
+KLM,Berlin (BER),Rome (FCO),177,390,1,12:15,18:45,Sunday,13/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),183,580,1,10:15,19:55,Sunday,13/08/2023
+Air Malta,Berlin (BER),Rome (FCO),185,305,1,17:05,22:10,Sunday,13/08/2023
+Air Baltic,Berlin (BER),Rome (FCO),193,1070,1,19:45,13:35,Sunday,13/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,235,1,13:45,17:40,Sunday,13/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,355,1,11:45,17:40,Sunday,13/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,365,1,07:45,13:50,Sunday,13/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,415,1,10:45,17:40,Sunday,13/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,425,1,06:45,13:50,Sunday,13/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,595,1,07:45,17:40,Sunday,13/08/2023
+KLM,Berlin (BER),Rome (FCO),203,255,1,14:30,18:45,Sunday,13/08/2023
+British Airways,Berlin (BER),Rome (FCO),208,380,1,16:35,22:55,Sunday,13/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,670,1,21:00,08:10,Sunday,13/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,745,1,19:45,08:10,Sunday,13/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),224,310,1,15:50,21:00,Sunday,13/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),230,320,1,11:40,17:00,Sunday,13/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),230,505,1,11:40,20:05,Sunday,13/08/2023
+easyJet,Berlin (BER),Rome (FCO),86,135,0,07:00,09:15,Monday,14/08/2023
+KLM,Berlin (BER),Rome (FCO),104,880,1,18:50,09:30,Monday,14/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,370,1,12:35,18:45,Monday,14/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,465,1,11:00,18:45,Monday,14/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,515,1,10:10,18:45,Monday,14/08/2023
+Luxair,Berlin (BER),Rome (FCO),132,655,1,08:45,19:40,Monday,14/08/2023
+Air France,Berlin (BER),Rome (FCO),136,890,1,20:30,11:20,Monday,14/08/2023
+KLM,Berlin (BER),Rome (FCO),147,255,1,14:30,18:45,Monday,14/08/2023
+KLM,Berlin (BER),Rome (FCO),147,260,1,12:15,16:35,Monday,14/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,18:00,23:05,Monday,14/08/2023
+KLM,Berlin (BER),Rome (FCO),152,350,1,06:00,11:50,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),152,250,1,16:50,21:00,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),152,310,1,15:50,21:00,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,240,1,13:45,17:45,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,250,1,09:45,13:55,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,290,1,13:45,18:35,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,310,1,08:45,13:55,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,340,1,08:15,13:55,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,360,1,11:45,17:45,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,370,1,07:45,13:55,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,410,1,11:45,18:35,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,420,1,10:45,17:45,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,430,1,06:45,13:55,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,470,1,10:45,18:35,Monday,14/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,480,1,09:45,17:45,Monday,14/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,335,1,13:10,18:45,Tuesday,15/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,515,1,10:10,18:45,Tuesday,15/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,535,1,09:50,18:45,Tuesday,15/08/2023
+KLM,Berlin (BER),Rome (FCO),104,495,1,14:30,22:45,Tuesday,15/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,225,1,08:20,12:05,Tuesday,15/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,345,1,06:20,12:05,Tuesday,15/08/2023
+Norwegian Air International Ltd,Berlin (BER),Rome (FCO),124,735,1,21:55,10:10,Tuesday,15/08/2023
+KLM,Berlin (BER),Rome (FCO),147,255,1,14:30,18:45,Tuesday,15/08/2023
+KLM,Berlin (BER),Rome (FCO),152,260,1,12:15,16:35,Tuesday,15/08/2023
+KLM,Berlin (BER),Rome (FCO),152,315,1,17:30,22:45,Tuesday,15/08/2023
+KLM,Berlin (BER),Rome (FCO),152,350,1,06:00,11:50,Tuesday,15/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Tuesday,15/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,505,1,11:40,20:05,Tuesday,15/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,605,1,06:55,17:00,Tuesday,15/08/2023
+Luxair,Berlin (BER),Rome (FCO),158,665,1,08:45,19:50,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,230,1,08:45,12:35,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,250,1,09:45,13:55,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,260,1,08:15,12:35,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,290,1,07:45,12:35,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,310,1,08:45,13:55,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,340,1,08:15,13:55,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,350,1,06:45,12:35,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,370,1,07:45,13:55,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,430,1,06:45,13:55,Tuesday,15/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,315,1,08:55,14:10,Tuesday,15/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,280,1,15:35,20:15,Wednesday,16/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,375,1,14:00,20:15,Wednesday,16/08/2023
+KLM,Berlin (BER),Rome (FCO),104,495,1,14:30,22:45,Wednesday,16/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,245,1,14:40,18:45,Wednesday,16/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,295,1,13:50,18:45,Wednesday,16/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,345,1,13:00,18:45,Wednesday,16/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,490,1,12:05,20:15,Wednesday,16/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,275,1,10:20,14:55,Wednesday,16/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,360,1,08:55,14:55,Wednesday,16/08/2023
+KLM,Berlin (BER),Rome (FCO),124,350,1,06:00,11:50,Wednesday,16/08/2023
+Luxair,Berlin (BER),Rome (FCO),132,655,1,08:45,19:40,Wednesday,16/08/2023
+Air France,Berlin (BER),Rome (FCO),136,745,1,20:30,08:55,Wednesday,16/08/2023
+KLM,Berlin (BER),Rome (FCO),147,255,1,14:30,18:45,Wednesday,16/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,06:15,11:20,Wednesday,16/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,18:00,23:05,Wednesday,16/08/2023
+KLM,Berlin (BER),Rome (FCO),152,260,1,12:15,16:35,Wednesday,16/08/2023
+KLM,Berlin (BER),Rome (FCO),152,390,1,12:15,18:45,Wednesday,16/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Wednesday,16/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,505,1,11:40,20:05,Wednesday,16/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,605,1,06:55,17:00,Wednesday,16/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,225,1,19:45,23:30,Wednesday,16/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,250,1,09:45,13:55,Wednesday,16/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,285,1,18:45,23:30,Wednesday,16/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,310,1,08:45,13:55,Wednesday,16/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,340,1,08:15,13:55,Wednesday,16/08/2023
+easyJet,Berlin (BER),Rome (FCO),85,135,0,17:20,19:35,Thursday,17/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,345,1,13:00,18:45,Thursday,17/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,490,1,12:30,20:40,Thursday,17/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,340,1,15:00,20:40,Thursday,17/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,395,1,14:05,20:40,Thursday,17/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,235,1,08:55,12:50,Thursday,17/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,250,1,16:30,20:40,Thursday,17/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,290,1,08:00,12:50,Thursday,17/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,380,1,06:30,12:50,Thursday,17/08/2023
+Luxair,Berlin (BER),Rome (FCO),132,655,1,08:45,19:40,Thursday,17/08/2023
+Norwegian Air International Ltd,Berlin (BER),Rome (FCO),138,705,1,21:55,09:40,Thursday,17/08/2023
+KLM,Berlin (BER),Rome (FCO),147,495,1,14:30,22:45,Thursday,17/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,06:15,11:20,Thursday,17/08/2023
+Air France,Berlin (BER),Rome (FCO),152,600,1,06:15,16:15,Thursday,17/08/2023
+KLM,Berlin (BER),Rome (FCO),152,255,1,14:30,18:45,Thursday,17/08/2023
+KLM,Berlin (BER),Rome (FCO),152,260,1,12:15,16:35,Thursday,17/08/2023
+KLM,Berlin (BER),Rome (FCO),152,350,1,06:00,11:50,Thursday,17/08/2023
+KLM,Berlin (BER),Rome (FCO),152,390,1,12:15,18:45,Thursday,17/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Thursday,17/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,505,1,11:40,20:05,Thursday,17/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,605,1,06:55,17:00,Thursday,17/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,225,1,19:45,23:30,Thursday,17/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,285,1,18:45,23:30,Thursday,17/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,345,1,17:45,23:30,Thursday,17/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,405,1,16:45,23:30,Thursday,17/08/2023
+easyJet,Berlin (BER),Rome (FCO),99,135,0,15:10,17:25,Friday,18/08/2023
+KLM,Berlin (BER),Rome (FCO),104,635,1,06:00,16:35,Friday,18/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,265,1,16:20,20:45,Friday,18/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,270,1,14:15,18:45,Friday,18/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,345,1,13:00,18:45,Friday,18/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,345,1,15:00,20:45,Friday,18/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,480,1,12:45,20:45,Friday,18/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,515,1,10:10,18:45,Friday,18/08/2023
+KLM,Berlin (BER),Rome (FCO),147,260,1,12:15,16:35,Friday,18/08/2023
+KLM,Berlin (BER),Rome (FCO),147,350,1,06:00,11:50,Friday,18/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,06:15,11:20,Friday,18/08/2023
+KLM,Berlin (BER),Rome (FCO),152,255,1,14:30,18:45,Friday,18/08/2023
+KLM,Berlin (BER),Rome (FCO),152,495,1,14:30,22:45,Friday,18/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,275,1,10:20,14:55,Friday,18/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,415,1,08:00,14:55,Friday,18/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,505,1,06:30,14:55,Friday,18/08/2023
+Air France,Berlin (BER),Rome (FCO),170,305,1,18:00,23:05,Friday,18/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),172,640,1,09:15,19:55,Friday,18/08/2023
+Luxair,Berlin (BER),Rome (FCO),184,655,1,08:45,19:40,Friday,18/08/2023
+Air France,Berlin (BER),Rome (FCO),191,320,1,12:10,17:30,Friday,18/08/2023
+Scandinavian Airlines,Berlin (BER),Rome (FCO),194,300,1,08:45,13:45,Friday,18/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),198,505,1,11:40,20:05,Friday,18/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,225,1,19:45,23:30,Friday,18/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,230,1,14:45,18:35,Friday,18/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,240,1,13:45,17:45,Friday,18/08/2023
+Air France,Berlin (BER),Rome (FCO),136,305,1,18:00,23:05,Saturday,19/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,06:15,11:20,Saturday,19/08/2023
+Air France,Berlin (BER),Rome (FCO),152,320,1,12:10,17:30,Saturday,19/08/2023
+Air France,Berlin (BER),Rome (FCO),152,600,1,06:15,16:15,Saturday,19/08/2023
+Air France,Berlin (BER),Rome (FCO),152,675,1,06:15,17:30,Saturday,19/08/2023
+KLM,Berlin (BER),Rome (FCO),152,765,1,06:00,18:45,Saturday,19/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),172,580,1,10:15,19:55,Saturday,19/08/2023
+KLM,Berlin (BER),Rome (FCO),177,350,1,06:00,11:50,Saturday,19/08/2023
+KLM,Berlin (BER),Rome (FCO),177,390,1,12:15,18:45,Saturday,19/08/2023
+KLM,Berlin (BER),Rome (FCO),177,630,1,12:15,22:45,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,230,1,08:45,12:35,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,230,1,19:45,23:35,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,240,1,13:45,17:45,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,290,1,07:45,12:35,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,290,1,18:45,23:35,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,350,1,06:45,12:35,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,350,1,17:45,23:35,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,360,1,11:45,17:45,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,420,1,10:45,17:45,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,530,1,14:45,23:35,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,540,1,08:45,17:45,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,590,1,13:45,23:35,Saturday,19/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,600,1,07:45,17:45,Saturday,19/08/2023
+KLM,Berlin (BER),Rome (FCO),203,260,1,12:15,16:35,Saturday,19/08/2023
+KLM,Berlin (BER),Rome (FCO),203,315,1,17:30,22:45,Saturday,19/08/2023
+easyJet,Berlin (BER),Rome (FCO),72,135,0,16:10,18:25,Sunday,20/08/2023
+KLM,Berlin (BER),Rome (FCO),147,260,1,12:15,16:35,Sunday,20/08/2023
+KLM,Berlin (BER),Rome (FCO),147,350,1,06:00,11:50,Sunday,20/08/2023
+KLM,Berlin (BER),Rome (FCO),147,635,1,06:00,16:35,Sunday,20/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,06:15,11:20,Sunday,20/08/2023
+Air France,Berlin (BER),Rome (FCO),152,320,1,12:10,17:30,Sunday,20/08/2023
+Air France,Berlin (BER),Rome (FCO),152,600,1,06:15,16:15,Sunday,20/08/2023
+Air France,Berlin (BER),Rome (FCO),152,655,1,12:10,23:05,Sunday,20/08/2023
+Air France,Berlin (BER),Rome (FCO),152,675,1,06:15,17:30,Sunday,20/08/2023
+Air France,Berlin (BER),Rome (FCO),170,305,1,18:00,23:05,Sunday,20/08/2023
+KLM,Berlin (BER),Rome (FCO),177,255,1,14:30,18:45,Sunday,20/08/2023
+KLM,Berlin (BER),Rome (FCO),177,495,1,14:30,22:45,Sunday,20/08/2023
+Air France,Berlin (BER),Rome (FCO),184,420,1,12:10,19:10,Sunday,20/08/2023
+Air Malta,Berlin (BER),Rome (FCO),185,305,1,17:05,22:10,Sunday,20/08/2023
+Air Baltic,Berlin (BER),Rome (FCO),193,1070,1,19:45,13:35,Sunday,20/08/2023
+Scandinavian Airlines,Berlin (BER),Rome (FCO),194,295,1,15:05,20:00,Sunday,20/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),212,580,1,10:15,19:55,Sunday,20/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,220,1,17:00,20:40,Sunday,20/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,330,1,15:10,20:40,Sunday,20/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,670,1,21:00,08:10,Sunday,20/08/2023
+British Airways,Berlin (BER),Rome (FCO),228,380,1,16:35,22:55,Sunday,20/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),230,320,1,11:40,17:00,Sunday,20/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),230,505,1,11:40,20:05,Sunday,20/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),230,605,1,06:55,17:00,Sunday,20/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,235,1,13:45,17:40,Sunday,20/08/2023
+easyJet,Berlin (BER),Rome (FCO),75,135,0,07:00,09:15,Monday,21/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,370,1,12:35,18:45,Monday,21/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,465,1,11:00,18:45,Monday,21/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,515,1,10:10,18:45,Monday,21/08/2023
+Luxair,Berlin (BER),Rome (FCO),132,655,1,08:45,19:40,Monday,21/08/2023
+Air France,Berlin (BER),Rome (FCO),136,890,1,20:30,11:20,Monday,21/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,06:15,11:20,Monday,21/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,18:00,23:05,Monday,21/08/2023
+Air France,Berlin (BER),Rome (FCO),152,320,1,12:10,17:30,Monday,21/08/2023
+Air France,Berlin (BER),Rome (FCO),152,420,1,12:10,19:10,Monday,21/08/2023
+KLM,Berlin (BER),Rome (FCO),152,255,1,14:30,18:45,Monday,21/08/2023
+KLM,Berlin (BER),Rome (FCO),152,390,1,12:15,18:45,Monday,21/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,605,1,06:55,17:00,Monday,21/08/2023
+Swiss International Air Lines,Berlin (BER),Rome (FCO),161,510,1,10:55,19:25,Monday,21/08/2023
+Swiss International Air Lines,Berlin (BER),Rome (FCO),161,590,1,09:35,19:25,Monday,21/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),167,345,1,14:10,19:55,Monday,21/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),167,610,1,09:45,19:55,Monday,21/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),174,320,1,11:40,17:00,Monday,21/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),174,505,1,11:40,20:05,Monday,21/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),175,225,1,19:45,23:30,Monday,21/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),175,285,1,18:45,23:30,Monday,21/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),175,290,1,13:45,18:35,Monday,21/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),175,345,1,17:45,23:30,Monday,21/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),175,405,1,16:45,23:30,Monday,21/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),175,410,1,11:45,18:35,Monday,21/08/2023
+KLM,Berlin (BER),Rome (FCO),104,495,1,14:30,22:45,Tuesday,22/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,335,1,13:10,18:45,Tuesday,22/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,515,1,10:10,18:45,Tuesday,22/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,535,1,09:50,18:45,Tuesday,22/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,225,1,08:20,12:05,Tuesday,22/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,315,1,08:55,14:10,Tuesday,22/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,345,1,06:20,12:05,Tuesday,22/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,370,1,08:00,14:10,Tuesday,22/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,425,1,07:05,14:10,Tuesday,22/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,470,1,06:20,14:10,Tuesday,22/08/2023
+Luxair,Berlin (BER),Rome (FCO),132,665,1,08:45,19:50,Tuesday,22/08/2023
+Air France,Berlin (BER),Rome (FCO),136,320,1,12:10,17:30,Tuesday,22/08/2023
+KLM,Berlin (BER),Rome (FCO),147,255,1,14:30,18:45,Tuesday,22/08/2023
+KLM,Berlin (BER),Rome (FCO),147,260,1,12:15,16:35,Tuesday,22/08/2023
+KLM,Berlin (BER),Rome (FCO),147,315,1,17:30,22:45,Tuesday,22/08/2023
+KLM,Berlin (BER),Rome (FCO),147,350,1,06:00,11:50,Tuesday,22/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,06:15,11:20,Tuesday,22/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,18:00,23:05,Tuesday,22/08/2023
+Air France,Berlin (BER),Rome (FCO),152,600,1,06:15,16:15,Tuesday,22/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Tuesday,22/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,505,1,11:40,20:05,Tuesday,22/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,605,1,06:55,17:00,Tuesday,22/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,250,1,09:45,13:55,Tuesday,22/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,310,1,08:45,13:55,Tuesday,22/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,340,1,08:15,13:55,Tuesday,22/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,280,1,15:35,20:15,Wednesday,23/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,375,1,14:00,20:15,Wednesday,23/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,245,1,14:40,18:45,Wednesday,23/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,295,1,13:50,18:45,Wednesday,23/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,345,1,13:00,18:45,Wednesday,23/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,490,1,12:05,20:15,Wednesday,23/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,415,1,08:00,14:55,Wednesday,23/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,470,1,07:05,14:55,Wednesday,23/08/2023
+Air France,Berlin (BER),Rome (FCO),121,745,1,20:30,08:55,Wednesday,23/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,275,1,10:20,14:55,Wednesday,23/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,360,1,08:55,14:55,Wednesday,23/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,505,1,06:30,14:55,Wednesday,23/08/2023
+Luxair,Berlin (BER),Rome (FCO),132,655,1,08:45,19:40,Wednesday,23/08/2023
+Air France,Berlin (BER),Rome (FCO),152,320,1,12:10,17:30,Wednesday,23/08/2023
+Air France,Berlin (BER),Rome (FCO),152,420,1,12:10,19:10,Wednesday,23/08/2023
+Air France,Berlin (BER),Rome (FCO),152,600,1,06:15,16:15,Wednesday,23/08/2023
+KLM,Berlin (BER),Rome (FCO),152,255,1,14:30,18:45,Wednesday,23/08/2023
+KLM,Berlin (BER),Rome (FCO),152,350,1,06:00,11:50,Wednesday,23/08/2023
+KLM,Berlin (BER),Rome (FCO),152,495,1,14:30,22:45,Wednesday,23/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),158,345,1,14:10,19:55,Wednesday,23/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),158,610,1,09:45,19:55,Wednesday,23/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),158,805,1,20:45,10:10,Wednesday,23/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Wednesday,23/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,505,1,11:40,20:05,Wednesday,23/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,605,1,06:55,17:00,Wednesday,23/08/2023
+easyJet,Berlin (BER),Rome (FCO),81,135,0,17:20,19:35,Thursday,24/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,340,1,15:00,20:40,Thursday,24/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,395,1,14:05,20:40,Thursday,24/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,490,1,12:30,20:40,Thursday,24/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,235,1,08:55,12:50,Thursday,24/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,290,1,08:00,12:50,Thursday,24/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,380,1,06:30,12:50,Thursday,24/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,250,1,16:30,20:40,Thursday,24/08/2023
+Luxair,Berlin (BER),Rome (FCO),132,655,1,08:45,19:40,Thursday,24/08/2023
+Norwegian Air International Ltd,Berlin (BER),Rome (FCO),136,705,1,21:55,09:40,Thursday,24/08/2023
+Air France,Berlin (BER),Rome (FCO),136,890,1,20:30,11:20,Thursday,24/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,06:15,11:20,Thursday,24/08/2023
+Air France,Berlin (BER),Rome (FCO),152,320,1,12:10,17:30,Thursday,24/08/2023
+Air France,Berlin (BER),Rome (FCO),152,420,1,12:10,19:10,Thursday,24/08/2023
+Air France,Berlin (BER),Rome (FCO),152,600,1,06:15,16:15,Thursday,24/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Thursday,24/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,505,1,11:40,20:05,Thursday,24/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,605,1,06:55,17:00,Thursday,24/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,230,1,14:45,18:35,Thursday,24/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,290,1,13:45,18:35,Thursday,24/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,470,1,10:45,18:35,Thursday,24/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,530,1,09:45,18:35,Thursday,24/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,345,1,13:00,18:45,Thursday,24/08/2023
+KLM,Berlin (BER),Rome (FCO),177,350,1,06:00,11:50,Thursday,24/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),181,330,1,15:10,20:40,Thursday,24/08/2023
+easyJet,Berlin (BER),Rome (FCO),75,135,0,15:10,17:25,Friday,25/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,265,1,16:20,20:45,Friday,25/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,345,1,15:00,20:45,Friday,25/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,480,1,12:45,20:45,Friday,25/08/2023
+Air France,Berlin (BER),Rome (FCO),136,305,1,06:15,11:20,Friday,25/08/2023
+Air France,Berlin (BER),Rome (FCO),136,600,1,06:15,16:15,Friday,25/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,18:00,23:05,Friday,25/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,270,1,14:15,18:45,Friday,25/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,275,1,10:20,14:55,Friday,25/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,345,1,13:00,18:45,Friday,25/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,415,1,08:00,14:55,Friday,25/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,505,1,06:30,14:55,Friday,25/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,515,1,10:10,18:45,Friday,25/08/2023
+Air France,Berlin (BER),Rome (FCO),170,320,1,12:10,17:30,Friday,25/08/2023
+KLM,Berlin (BER),Rome (FCO),177,350,1,06:00,11:50,Friday,25/08/2023
+KLM,Berlin (BER),Rome (FCO),177,390,1,12:15,18:45,Friday,25/08/2023
+KLM,Berlin (BER),Rome (FCO),177,495,1,14:30,22:45,Friday,25/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),182,345,1,14:10,19:55,Friday,25/08/2023
+Air France,Berlin (BER),Rome (FCO),184,420,1,12:10,19:10,Friday,25/08/2023
+Luxair,Berlin (BER),Rome (FCO),184,655,1,08:45,19:40,Friday,25/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),191,610,1,09:45,19:55,Friday,25/08/2023
+Air Baltic,Berlin (BER),Rome (FCO),193,315,1,08:20,13:35,Friday,25/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,230,1,14:45,18:35,Friday,25/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,240,1,13:45,17:45,Friday,25/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),199,290,1,13:45,18:35,Friday,25/08/2023
+Air France,Berlin (BER),Rome (FCO),136,890,1,20:30,11:20,Saturday,26/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,18:00,23:05,Saturday,26/08/2023
+Air France,Berlin (BER),Rome (FCO),152,320,1,12:10,17:30,Saturday,26/08/2023
+KLM,Berlin (BER),Rome (FCO),152,1005,1,06:00,22:45,Saturday,26/08/2023
+Air France,Berlin (BER),Rome (FCO),170,305,1,06:15,11:20,Saturday,26/08/2023
+KLM,Berlin (BER),Rome (FCO),177,315,1,17:30,22:45,Saturday,26/08/2023
+KLM,Berlin (BER),Rome (FCO),177,630,1,12:15,22:45,Saturday,26/08/2023
+KLM,Berlin (BER),Rome (FCO),203,390,1,12:15,18:45,Saturday,26/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),215,610,1,09:45,19:55,Saturday,26/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),230,605,1,06:55,17:00,Saturday,26/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,230,1,19:45,23:35,Saturday,26/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,240,1,13:45,17:45,Saturday,26/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,350,1,17:45,23:35,Saturday,26/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,360,1,11:45,17:45,Saturday,26/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,420,1,10:45,17:45,Saturday,26/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,530,1,14:45,23:35,Saturday,26/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,540,1,08:45,17:45,Saturday,26/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,590,1,13:45,23:35,Saturday,26/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,600,1,07:45,17:45,Saturday,26/08/2023
+KLM,Berlin (BER),Rome (FCO),233,260,1,12:15,16:35,Saturday,26/08/2023
+KLM,Berlin (BER),Rome (FCO),233,350,1,06:00,11:50,Saturday,26/08/2023
+KLM,Berlin (BER),Rome (FCO),233,495,1,14:30,22:45,Saturday,26/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),253,330,1,15:10,20:40,Saturday,26/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),256,310,1,15:50,21:00,Saturday,26/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),256,345,1,06:20,12:05,Saturday,26/08/2023
+easyJet,Berlin (BER),Rome (FCO),75,135,0,16:10,18:25,Sunday,27/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),164,820,1,20:30,10:10,Sunday,27/08/2023
+Air France,Berlin (BER),Rome (FCO),170,745,1,20:30,08:55,Sunday,27/08/2023
+Air France,Berlin (BER),Rome (FCO),184,305,1,06:15,11:20,Sunday,27/08/2023
+Air France,Berlin (BER),Rome (FCO),184,305,1,18:00,23:05,Sunday,27/08/2023
+Air France,Berlin (BER),Rome (FCO),184,600,1,06:15,16:15,Sunday,27/08/2023
+Air Malta,Berlin (BER),Rome (FCO),185,305,1,17:05,22:10,Sunday,27/08/2023
+Air Baltic,Berlin (BER),Rome (FCO),193,1070,1,19:45,13:35,Sunday,27/08/2023
+Scandinavian Airlines,Berlin (BER),Rome (FCO),194,295,1,15:05,20:00,Sunday,27/08/2023
+Norwegian Air International Ltd,Berlin (BER),Rome (FCO),200,655,1,22:45,09:40,Sunday,27/08/2023
+Swiss International Air Lines,Berlin (BER),Rome (FCO),201,740,1,20:30,08:50,Sunday,27/08/2023
+KLM,Berlin (BER),Rome (FCO),203,495,1,14:30,22:45,Sunday,27/08/2023
+TAP Portugal,Berlin (BER),Rome (FCO),206,805,1,06:00,19:25,Sunday,27/08/2023
+Air France,Berlin (BER),Rome (FCO),214,320,1,12:10,17:30,Sunday,27/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),221,670,1,21:00,08:10,Sunday,27/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),230,605,1,06:55,17:00,Sunday,27/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,235,1,13:45,17:40,Sunday,27/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),231,415,1,10:45,17:40,Sunday,27/08/2023
+KLM,Berlin (BER),Rome (FCO),233,880,1,18:50,09:30,Sunday,27/08/2023
+Norwegian Air Shuttle,Berlin (BER),Rome (FCO),236,620,1,09:35,19:55,Sunday,27/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),253,220,1,17:00,20:40,Sunday,27/08/2023
+Austrian Airlines,Berlin (BER),Rome (FCO),253,330,1,15:10,20:40,Sunday,27/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),262,320,1,11:40,17:00,Sunday,27/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),262,505,1,11:40,20:05,Sunday,27/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),263,355,1,11:45,17:40,Sunday,27/08/2023
+easyJet,Berlin (BER),Rome (FCO),75,135,0,07:00,09:15,Monday,28/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,275,1,10:20,14:55,Monday,28/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,360,1,08:55,14:55,Monday,28/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,370,1,12:35,18:45,Monday,28/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,415,1,08:00,14:55,Monday,28/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,465,1,11:00,18:45,Monday,28/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,470,1,07:05,14:55,Monday,28/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,505,1,06:30,14:55,Monday,28/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,515,1,10:10,18:45,Monday,28/08/2023
+Air France,Berlin (BER),Rome (FCO),136,305,1,18:00,23:05,Monday,28/08/2023
+Air France,Berlin (BER),Rome (FCO),136,320,1,12:10,17:30,Monday,28/08/2023
+Air France,Berlin (BER),Rome (FCO),136,380,1,09:55,16:15,Monday,28/08/2023
+Air France,Berlin (BER),Rome (FCO),136,420,1,12:10,19:10,Monday,28/08/2023
+Air France,Berlin (BER),Rome (FCO),136,455,1,09:55,17:30,Monday,28/08/2023
+Air France,Berlin (BER),Rome (FCO),136,465,1,15:20,23:05,Monday,28/08/2023
+KLM,Berlin (BER),Rome (FCO),147,315,1,17:30,22:45,Monday,28/08/2023
+KLM,Berlin (BER),Rome (FCO),147,495,1,14:30,22:45,Monday,28/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,06:15,11:20,Monday,28/08/2023
+Luxair,Berlin (BER),Rome (FCO),158,655,1,08:45,19:40,Monday,28/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,225,1,19:45,23:30,Monday,28/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,285,1,18:45,23:30,Monday,28/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,345,1,17:45,23:30,Monday,28/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,405,1,16:45,23:30,Monday,28/08/2023
+Swiss International Air Lines,Berlin (BER),Rome (FCO),161,245,1,18:45,22:50,Monday,28/08/2023
+Swiss International Air Lines,Berlin (BER),Rome (FCO),161,270,1,14:55,19:25,Monday,28/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,335,1,13:10,18:45,Tuesday,29/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,515,1,10:10,18:45,Tuesday,29/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,535,1,09:50,18:45,Tuesday,29/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,315,1,08:55,14:10,Tuesday,29/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,370,1,08:00,14:10,Tuesday,29/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,425,1,07:05,14:10,Tuesday,29/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,225,1,08:20,12:05,Tuesday,29/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,345,1,06:20,12:05,Tuesday,29/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,470,1,06:20,14:10,Tuesday,29/08/2023
+Luxair,Berlin (BER),Rome (FCO),132,665,1,08:45,19:50,Tuesday,29/08/2023
+Air France,Berlin (BER),Rome (FCO),136,305,1,18:00,23:05,Tuesday,29/08/2023
+Air France,Berlin (BER),Rome (FCO),136,320,1,12:10,17:30,Tuesday,29/08/2023
+Air France,Berlin (BER),Rome (FCO),136,380,1,09:55,16:15,Tuesday,29/08/2023
+Air France,Berlin (BER),Rome (FCO),136,420,1,12:10,19:10,Tuesday,29/08/2023
+Air France,Berlin (BER),Rome (FCO),136,455,1,09:55,17:30,Tuesday,29/08/2023
+Air France,Berlin (BER),Rome (FCO),136,465,1,15:20,23:05,Tuesday,29/08/2023
+Air France,Berlin (BER),Rome (FCO),136,555,1,09:55,19:10,Tuesday,29/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,06:15,11:20,Tuesday,29/08/2023
+KLM,Berlin (BER),Rome (FCO),152,255,1,14:30,18:45,Tuesday,29/08/2023
+KLM,Berlin (BER),Rome (FCO),152,315,1,17:30,22:45,Tuesday,29/08/2023
+KLM,Berlin (BER),Rome (FCO),152,390,1,12:15,18:45,Tuesday,29/08/2023
+KLM,Berlin (BER),Rome (FCO),152,480,1,10:45,18:45,Tuesday,29/08/2023
+KLM,Berlin (BER),Rome (FCO),152,495,1,14:30,22:45,Tuesday,29/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Tuesday,29/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,505,1,11:40,20:05,Tuesday,29/08/2023
+Eurowings,Berlin (BER),Rome (FCO),80,245,1,14:40,18:45,Wednesday,30/08/2023
+Eurowings,Berlin (BER),Rome (FCO),80,295,1,13:50,18:45,Wednesday,30/08/2023
+Eurowings,Berlin (BER),Rome (FCO),80,345,1,13:00,18:45,Wednesday,30/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,280,1,15:35,20:15,Wednesday,30/08/2023
+Eurowings,Berlin (BER),Rome (FCO),90,375,1,14:00,20:15,Wednesday,30/08/2023
+KLM,Berlin (BER),Rome (FCO),104,315,1,17:30,22:45,Wednesday,30/08/2023
+KLM,Berlin (BER),Rome (FCO),104,495,1,14:30,22:45,Wednesday,30/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,490,1,12:05,20:15,Wednesday,30/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,275,1,10:20,14:55,Wednesday,30/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,360,1,08:55,14:55,Wednesday,30/08/2023
+Air France,Berlin (BER),Rome (FCO),121,745,1,20:30,08:55,Wednesday,30/08/2023
+Luxair,Berlin (BER),Rome (FCO),132,655,1,08:45,19:40,Wednesday,30/08/2023
+Air France,Berlin (BER),Rome (FCO),136,305,1,06:15,11:20,Wednesday,30/08/2023
+Air France,Berlin (BER),Rome (FCO),136,320,1,12:10,17:30,Wednesday,30/08/2023
+Air France,Berlin (BER),Rome (FCO),136,420,1,12:10,19:10,Wednesday,30/08/2023
+Air France,Berlin (BER),Rome (FCO),136,455,1,09:55,17:30,Wednesday,30/08/2023
+Air France,Berlin (BER),Rome (FCO),136,465,1,15:20,23:05,Wednesday,30/08/2023
+Air France,Berlin (BER),Rome (FCO),136,555,1,09:55,19:10,Wednesday,30/08/2023
+KLM,Berlin (BER),Rome (FCO),147,255,1,14:30,18:45,Wednesday,30/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,18:00,23:05,Wednesday,30/08/2023
+Air France,Berlin (BER),Rome (FCO),152,380,1,09:55,16:15,Wednesday,30/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Wednesday,30/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,505,1,11:40,20:05,Wednesday,30/08/2023
+Eurowings,Berlin (BER),Rome (FCO),160,505,1,06:30,14:55,Wednesday,30/08/2023
+Swiss International Air Lines,Berlin (BER),Rome (FCO),161,245,1,18:45,22:50,Wednesday,30/08/2023
+easyJet,Berlin (BER),Rome (FCO),88,135,0,17:20,19:35,Thursday,31/08/2023
+Eurowings,Berlin (BER),Rome (FCO),110,345,1,13:00,18:45,Thursday,31/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,340,1,15:00,20:40,Thursday,31/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,395,1,14:05,20:40,Thursday,31/08/2023
+Eurowings,Berlin (BER),Rome (FCO),120,490,1,12:30,20:40,Thursday,31/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,235,1,08:55,12:50,Thursday,31/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,250,1,16:30,20:40,Thursday,31/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,290,1,08:00,12:50,Thursday,31/08/2023
+Eurowings,Berlin (BER),Rome (FCO),130,380,1,06:30,12:50,Thursday,31/08/2023
+Luxair,Berlin (BER),Rome (FCO),132,655,1,08:45,19:40,Thursday,31/08/2023
+Air France,Berlin (BER),Rome (FCO),152,305,1,06:15,11:20,Thursday,31/08/2023
+Air France,Berlin (BER),Rome (FCO),152,420,1,12:10,19:10,Thursday,31/08/2023
+Air France,Berlin (BER),Rome (FCO),152,465,1,15:20,23:05,Thursday,31/08/2023
+Air France,Berlin (BER),Rome (FCO),152,555,1,09:55,19:10,Thursday,31/08/2023
+KLM,Berlin (BER),Rome (FCO),152,495,1,14:30,22:45,Thursday,31/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),158,320,1,11:40,17:00,Thursday,31/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,230,1,14:45,18:35,Thursday,31/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),159,290,1,13:45,18:35,Thursday,31/08/2023
+Air France,Berlin (BER),Rome (FCO),170,305,1,18:00,23:05,Thursday,31/08/2023
+Air Baltic,Berlin (BER),Rome (FCO),173,315,1,08:20,13:35,Thursday,31/08/2023
+Brussels Airlines,Berlin (BER),Rome (FCO),174,505,1,11:40,20:05,Thursday,31/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),175,260,1,08:15,12:35,Thursday,31/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),175,320,1,07:15,12:35,Thursday,31/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),175,350,1,06:45,12:35,Thursday,31/08/2023
+Lufthansa,Berlin (BER),Rome (FCO),175,470,1,10:45,18:35,Thursday,31/08/2023

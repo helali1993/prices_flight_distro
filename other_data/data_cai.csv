@@ -1,0 +1,776 @@
+Airline,Departure,Arrival,price,Duration,Stops,Departure Time,Arrival Time,Day of the Week,Day of the Month
+Aegean,Berlin (BER),Cairo (CAI),316,455,1,17:15,00:50,Tuesday,1/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Tuesday,1/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),446,470,1,11:20,19:10,Tuesday,1/08/2023
+Aegean,Berlin (BER),Cairo (CAI),497,590,2,15:00,00:50,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,375,1,19:35,01:50,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,555,1,10:40,19:55,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,655,1,14:55,01:50,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,750,1,19:35,08:05,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,775,1,07:00,19:55,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,910,1,10:40,01:50,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1030,1,14:55,08:05,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1130,1,07:00,01:50,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1285,1,10:40,08:05,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1460,1,19:35,19:55,Tuesday,1/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1505,1,07:00,08:05,Tuesday,1/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,900,1,20:30,11:30,Tuesday,1/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,945,1,19:45,11:30,Tuesday,1/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1005,1,18:45,11:30,Tuesday,1/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1235,1,14:55,11:30,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,380,1,18:50,01:10,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,440,1,17:50,01:10,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,500,1,16:50,01:10,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,680,1,13:50,01:10,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,740,1,12:50,01:10,Tuesday,1/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,860,1,10:50,01:10,Tuesday,1/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,415,1,11:15,18:10,Wednesday,2/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,815,1,11:15,00:50,Wednesday,2/08/2023
+Aegean,Berlin (BER),Cairo (CAI),308,555,1,11:15,20:30,Wednesday,2/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Wednesday,2/08/2023
+Air France,Berlin (BER),Cairo (CAI),373,1655,1,20:30,00:05,Wednesday,2/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),446,470,1,19:10,03:00,Wednesday,2/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),446,1440,1,19:10,19:10,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,375,1,19:35,01:50,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,415,1,13:00,19:55,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,555,1,10:40,19:55,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,655,1,14:55,01:50,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,750,1,19:35,08:05,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,770,1,13:00,01:50,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,775,1,07:00,19:55,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,910,1,10:40,01:50,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1030,1,14:55,08:05,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1130,1,07:00,01:50,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1145,1,13:00,08:05,Wednesday,2/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1285,1,10:40,08:05,Wednesday,2/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,900,1,20:30,11:30,Wednesday,2/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,945,1,19:45,11:30,Wednesday,2/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1005,1,18:45,11:30,Wednesday,2/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,380,1,18:50,01:10,Wednesday,2/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,385,1,08:50,15:15,Wednesday,2/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,440,1,17:50,01:10,Wednesday,2/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,415,1,11:15,18:10,Thursday,3/08/2023
+Aegean,Berlin (BER),Cairo (CAI),285,455,1,17:15,00:50,Thursday,3/08/2023
+Aegean,Berlin (BER),Cairo (CAI),285,815,1,11:15,00:50,Thursday,3/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Thursday,3/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Thursday,3/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Thursday,3/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,3/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,3/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,3/08/2023
+Aegean,Berlin (BER),Cairo (CAI),425,555,1,11:15,20:30,Thursday,3/08/2023
+KLM,Berlin (BER),Cairo (CAI),442,710,2,12:15,00:05,Thursday,3/08/2023
+KLM,Berlin (BER),Cairo (CAI),442,900,2,09:05,00:05,Thursday,3/08/2023
+KLM,Berlin (BER),Cairo (CAI),442,900,2,09:05,00:05,Thursday,3/08/2023
+KLM,Berlin (BER),Cairo (CAI),442,900,2,09:05,00:05,Thursday,3/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),446,470,1,11:20,19:10,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,375,1,19:35,01:50,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,555,1,10:40,19:55,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,655,1,14:55,01:50,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,750,1,19:35,08:05,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,775,1,07:00,19:55,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,910,1,10:40,01:50,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1030,1,14:55,08:05,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1130,1,07:00,01:50,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1285,1,10:40,08:05,Thursday,3/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1460,1,19:35,19:55,Thursday,3/08/2023
+Aegean,Berlin (BER),Cairo (CAI),316,815,1,11:15,00:50,Friday,4/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Friday,4/08/2023
+Aegean,Berlin (BER),Cairo (CAI),366,555,1,11:15,20:30,Friday,4/08/2023
+Aegean,Berlin (BER),Cairo (CAI),375,415,1,11:15,18:10,Friday,4/08/2023
+Aegean,Berlin (BER),Cairo (CAI),442,535,2,15:55,00:50,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,375,1,19:35,01:50,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,415,1,13:00,19:55,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,555,1,10:40,19:55,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,750,1,19:35,08:05,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,770,1,13:00,01:50,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,775,1,07:00,19:55,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,910,1,10:40,01:50,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1130,1,07:00,01:50,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1145,1,13:00,08:05,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1285,1,10:40,08:05,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,655,1,14:55,01:50,Friday,4/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,1030,1,14:55,08:05,Friday,4/08/2023
+KLM,Berlin (BER),Cairo (CAI),708,710,2,12:15,00:05,Friday,4/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,385,1,08:50,15:15,Friday,4/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,475,1,07:20,15:15,Friday,4/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,535,1,06:20,15:15,Friday,4/08/2023
+Austrian Airlines,Berlin (BER),Cairo (CAI),784,345,1,09:00,14:45,Friday,4/08/2023
+Austrian Airlines,Berlin (BER),Cairo (CAI),784,355,1,19:45,01:40,Friday,4/08/2023
+Austrian Airlines,Berlin (BER),Cairo (CAI),784,455,1,11:15,18:50,Friday,4/08/2023
+Austrian Airlines,Berlin (BER),Cairo (CAI),784,465,1,07:00,14:45,Friday,4/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,455,1,17:15,00:50,Saturday,5/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,885,1,17:15,08:00,Saturday,5/08/2023
+Aegean,Berlin (BER),Cairo (CAI),285,415,1,11:15,18:10,Saturday,5/08/2023
+Aegean,Berlin (BER),Cairo (CAI),316,815,1,11:15,00:50,Saturday,5/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),381,245,0,15:45,19:50,Saturday,5/08/2023
+Aegean,Berlin (BER),Cairo (CAI),425,555,1,11:15,20:30,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,375,1,19:35,01:50,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,415,1,13:00,19:55,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,555,1,10:40,19:55,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,655,1,14:55,01:50,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,750,1,19:35,08:05,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,770,1,13:00,01:50,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,775,1,07:00,19:55,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,910,1,10:40,01:50,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,1030,1,14:55,08:05,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,1130,1,07:00,01:50,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,1145,1,13:00,08:05,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,1285,1,10:40,08:05,Saturday,5/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,1460,1,19:35,19:55,Saturday,5/08/2023
+Air France,Berlin (BER),Cairo (CAI),678,1070,1,06:15,00:05,Saturday,5/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1005,1,18:45,11:30,Saturday,5/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1235,1,14:55,11:30,Saturday,5/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,400,1,12:50,19:30,Saturday,5/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,440,1,17:50,01:10,Saturday,5/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,560,1,15:50,01:10,Saturday,5/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,455,1,17:15,00:50,Sunday,6/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,815,1,11:15,00:50,Sunday,6/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),381,245,0,15:45,19:50,Sunday,6/08/2023
+Aegean,Berlin (BER),Cairo (CAI),425,555,1,11:15,20:30,Sunday,6/08/2023
+Aegean,Berlin (BER),Cairo (CAI),497,480,2,16:50,00:50,Sunday,6/08/2023
+Air France,Berlin (BER),Cairo (CAI),562,1655,1,20:30,00:05,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,375,1,19:35,01:50,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,555,1,10:40,19:55,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,655,1,14:55,01:50,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,750,1,19:35,08:05,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,775,1,07:00,19:55,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,910,1,10:40,01:50,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,1030,1,14:55,08:05,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,1130,1,07:00,01:50,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,1285,1,10:40,08:05,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,1460,1,19:35,19:55,Sunday,6/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),580,1505,1,07:00,08:05,Sunday,6/08/2023
+Air France,Berlin (BER),Cairo (CAI),678,715,1,12:10,00:05,Sunday,6/08/2023
+Air France,Berlin (BER),Cairo (CAI),678,1070,1,06:15,00:05,Sunday,6/08/2023
+KLM,Berlin (BER),Cairo (CAI),708,710,2,12:15,00:05,Sunday,6/08/2023
+KLM,Berlin (BER),Cairo (CAI),708,710,2,12:15,00:05,Sunday,6/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,900,1,20:30,11:30,Sunday,6/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,945,1,19:45,11:30,Sunday,6/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1005,1,18:45,11:30,Sunday,6/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1190,1,15:40,11:30,Sunday,6/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,455,1,17:15,00:50,Monday,7/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,885,1,17:15,08:00,Monday,7/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),287,470,1,19:10,03:00,Monday,7/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),287,1440,1,19:10,19:10,Monday,7/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1030,1,14:55,08:05,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1145,1,13:00,08:05,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1285,1,10:40,08:05,Monday,7/08/2023
+KLM,Berlin (BER),Cairo (CAI),512,710,2,12:15,00:05,Monday,7/08/2023
+KLM,Berlin (BER),Cairo (CAI),512,900,2,09:05,00:05,Monday,7/08/2023
+KLM,Berlin (BER),Cairo (CAI),512,900,2,09:05,00:05,Monday,7/08/2023
+KLM,Berlin (BER),Cairo (CAI),512,1085,2,06:00,00:05,Monday,7/08/2023
+KLM,Berlin (BER),Cairo (CAI),512,1085,2,06:00,00:05,Monday,7/08/2023
+KLM,Berlin (BER),Cairo (CAI),512,1085,2,06:00,00:05,Monday,7/08/2023
+KLM,Berlin (BER),Cairo (CAI),512,1085,2,06:00,00:05,Monday,7/08/2023
+KLM,Berlin (BER),Cairo (CAI),512,1085,2,06:00,00:05,Monday,7/08/2023
+KLM,Berlin (BER),Cairo (CAI),512,1085,2,06:00,00:05,Monday,7/08/2023
+Air France,Berlin (BER),Cairo (CAI),552,715,1,12:10,00:05,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,375,1,19:35,01:50,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,415,1,13:00,19:55,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,555,1,10:40,19:55,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,655,1,14:55,01:50,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,770,1,13:00,01:50,Monday,7/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,775,1,07:00,19:55,Monday,7/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,455,1,17:15,00:50,Tuesday,8/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Tuesday,8/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),343,470,1,11:20,19:10,Tuesday,8/08/2023
+Aegean,Berlin (BER),Cairo (CAI),497,590,2,15:00,00:50,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,375,1,19:35,01:50,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,555,1,10:40,19:55,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,655,1,14:55,01:50,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,750,1,19:35,08:05,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,775,1,07:00,19:55,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,910,1,10:40,01:50,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1030,1,14:55,08:05,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1130,1,07:00,01:50,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1285,1,10:40,08:05,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1460,1,19:35,19:55,Tuesday,8/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),575,1505,1,07:00,08:05,Tuesday,8/08/2023
+Air France,Berlin (BER),Cairo (CAI),688,1655,1,20:30,00:05,Tuesday,8/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,900,1,20:30,11:30,Tuesday,8/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,945,1,19:45,11:30,Tuesday,8/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1005,1,18:45,11:30,Tuesday,8/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1235,1,14:55,11:30,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,340,1,13:50,19:30,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,380,1,18:50,01:10,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,400,1,12:50,19:30,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,440,1,17:50,01:10,Tuesday,8/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,500,1,16:50,01:10,Tuesday,8/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,415,1,11:15,18:10,Wednesday,9/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,815,1,11:15,00:50,Wednesday,9/08/2023
+Aegean,Berlin (BER),Cairo (CAI),308,555,1,11:15,20:30,Wednesday,9/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Wednesday,9/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),343,470,1,19:10,03:00,Wednesday,9/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),343,1440,1,19:10,19:10,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,415,1,13:00,19:55,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,770,1,13:00,01:50,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1030,1,14:55,08:05,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1130,1,07:00,01:50,Wednesday,9/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1145,1,13:00,08:05,Wednesday,9/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,900,1,20:30,11:30,Wednesday,9/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,945,1,19:45,11:30,Wednesday,9/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1005,1,18:45,11:30,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,340,1,13:50,19:30,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,380,1,18:50,01:10,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,385,1,08:50,15:15,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,400,1,12:50,19:30,Wednesday,9/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,440,1,17:50,01:10,Wednesday,9/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Thursday,10/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),343,470,1,11:20,19:10,Thursday,10/08/2023
+Air France,Berlin (BER),Cairo (CAI),373,1655,1,20:30,00:05,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1030,1,14:55,08:05,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1130,1,07:00,01:50,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1285,1,10:40,08:05,Thursday,10/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1460,1,19:35,19:55,Thursday,10/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,340,1,13:50,19:30,Thursday,10/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,380,1,18:50,01:10,Thursday,10/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,400,1,12:50,19:30,Thursday,10/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,500,1,16:50,01:10,Thursday,10/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,520,1,10:50,19:30,Thursday,10/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,560,1,15:50,01:10,Thursday,10/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,580,1,09:50,19:30,Thursday,10/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,680,1,13:50,01:10,Thursday,10/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,730,1,07:20,19:30,Thursday,10/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,740,1,12:50,01:10,Thursday,10/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,790,1,06:20,19:30,Thursday,10/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,860,1,10:50,01:10,Thursday,10/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Friday,11/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Friday,11/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Friday,11/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Friday,11/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Friday,11/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Friday,11/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,710,2,12:15,00:05,Friday,11/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,710,2,12:15,00:05,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,415,1,13:00,19:55,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,770,1,13:00,01:50,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1130,1,07:00,01:50,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1145,1,13:00,08:05,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,655,1,14:55,01:50,Friday,11/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1030,1,14:55,08:05,Friday,11/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,340,1,13:50,19:30,Friday,11/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,385,1,08:50,15:15,Friday,11/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,400,1,12:50,19:30,Friday,11/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,475,1,07:20,15:15,Friday,11/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,520,1,10:50,19:30,Friday,11/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,415,1,11:15,18:10,Saturday,12/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,455,1,17:15,00:50,Saturday,12/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,815,1,11:15,00:50,Saturday,12/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,885,1,17:15,08:00,Saturday,12/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Saturday,12/08/2023
+Aegean,Berlin (BER),Cairo (CAI),366,555,1,11:15,20:30,Saturday,12/08/2023
+Air France,Berlin (BER),Cairo (CAI),373,1655,1,20:30,00:05,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,375,1,19:35,01:50,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,415,1,13:00,19:55,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,555,1,10:40,19:55,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,655,1,14:55,01:50,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,750,1,19:35,08:05,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,770,1,13:00,01:50,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,775,1,07:00,19:55,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,910,1,10:40,01:50,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1030,1,14:55,08:05,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1130,1,07:00,01:50,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1145,1,13:00,08:05,Saturday,12/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1285,1,10:40,08:05,Saturday,12/08/2023
+Air France,Berlin (BER),Cairo (CAI),678,715,1,12:10,00:05,Saturday,12/08/2023
+Air France,Berlin (BER),Cairo (CAI),678,1070,1,06:15,00:05,Saturday,12/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1005,1,18:45,11:30,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,400,1,12:50,19:30,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,440,1,17:50,01:10,Saturday,12/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,560,1,15:50,01:10,Saturday,12/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,455,1,17:15,00:50,Sunday,13/08/2023
+Aegean,Berlin (BER),Cairo (CAI),258,815,1,11:15,00:50,Sunday,13/08/2023
+Aegean,Berlin (BER),Cairo (CAI),308,555,1,11:15,20:30,Sunday,13/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Sunday,13/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Sunday,13/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Sunday,13/08/2023
+Air France,Berlin (BER),Cairo (CAI),373,1655,1,20:30,00:05,Sunday,13/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Sunday,13/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Sunday,13/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Sunday,13/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Sunday,13/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Sunday,13/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Sunday,13/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Sunday,13/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Sunday,13/08/2023
+Aegean,Berlin (BER),Cairo (CAI),442,480,2,16:50,00:50,Sunday,13/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,375,1,19:35,01:50,Sunday,13/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,555,1,10:40,19:55,Sunday,13/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,655,1,14:55,01:50,Sunday,13/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,750,1,19:35,08:05,Sunday,13/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,775,1,07:00,19:55,Sunday,13/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,910,1,10:40,01:50,Sunday,13/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1030,1,14:55,08:05,Sunday,13/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1130,1,07:00,01:50,Sunday,13/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1285,1,10:40,08:05,Sunday,13/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,455,1,17:15,00:50,Monday,14/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,885,1,17:15,08:00,Monday,14/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),239,470,1,19:10,03:00,Monday,14/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),239,1440,1,19:10,19:10,Monday,14/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Monday,14/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Monday,14/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Monday,14/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Monday,14/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Monday,14/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Monday,14/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Monday,14/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,710,2,12:15,00:05,Monday,14/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,710,2,12:15,00:05,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,415,1,13:00,19:55,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,770,1,13:00,01:50,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1030,1,14:55,08:05,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1130,1,07:00,01:50,Monday,14/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1145,1,13:00,08:05,Monday,14/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,455,1,17:15,00:50,Tuesday,15/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),295,470,1,11:20,19:10,Tuesday,15/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Tuesday,15/08/2023
+Air France,Berlin (BER),Cairo (CAI),373,1655,1,20:30,00:05,Tuesday,15/08/2023
+Aegean,Berlin (BER),Cairo (CAI),442,590,2,15:00,00:50,Tuesday,15/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Tuesday,15/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Tuesday,15/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Tuesday,15/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Tuesday,15/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Tuesday,15/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Tuesday,15/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1030,1,14:55,08:05,Tuesday,15/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1130,1,07:00,01:50,Tuesday,15/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1285,1,10:40,08:05,Tuesday,15/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1460,1,19:35,19:55,Tuesday,15/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,900,1,20:30,11:30,Tuesday,15/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,945,1,19:45,11:30,Tuesday,15/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1005,1,18:45,11:30,Tuesday,15/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1235,1,14:55,11:30,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,340,1,13:50,19:30,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,380,1,18:50,01:10,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,400,1,12:50,19:30,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,440,1,17:50,01:10,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,500,1,16:50,01:10,Tuesday,15/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,520,1,10:50,19:30,Tuesday,15/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,415,1,11:15,18:10,Wednesday,16/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,815,1,11:15,00:50,Wednesday,16/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),267,470,1,19:10,03:00,Wednesday,16/08/2023
+Aegean,Berlin (BER),Cairo (CAI),286,555,1,11:15,20:30,Wednesday,16/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Wednesday,16/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Wednesday,16/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Wednesday,16/08/2023
+Air France,Berlin (BER),Cairo (CAI),373,1655,1,20:30,00:05,Wednesday,16/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Wednesday,16/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Wednesday,16/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Wednesday,16/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,710,2,12:15,00:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,710,2,12:15,00:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,900,2,09:05,00:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,900,2,09:05,00:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,900,2,09:05,00:05,Wednesday,16/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,900,2,09:05,00:05,Wednesday,16/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Wednesday,16/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,415,1,13:00,19:55,Wednesday,16/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Wednesday,16/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Wednesday,16/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Wednesday,16/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,770,1,13:00,01:50,Wednesday,16/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Wednesday,16/08/2023
+Aegean,Berlin (BER),Cairo (CAI),202,415,1,11:15,18:10,Thursday,17/08/2023
+Aegean,Berlin (BER),Cairo (CAI),202,455,1,17:15,00:50,Thursday,17/08/2023
+Aegean,Berlin (BER),Cairo (CAI),202,815,1,11:15,00:50,Thursday,17/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),295,470,1,11:20,19:10,Thursday,17/08/2023
+Aegean,Berlin (BER),Cairo (CAI),308,555,1,11:15,20:30,Thursday,17/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Thursday,17/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Thursday,17/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Thursday,17/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Thursday,17/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Thursday,17/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Thursday,17/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,17/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,17/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,17/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,17/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,710,2,12:15,00:05,Thursday,17/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,710,2,12:15,00:05,Thursday,17/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Thursday,17/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Thursday,17/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Thursday,17/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Thursday,17/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Thursday,17/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Thursday,17/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1030,1,14:55,08:05,Thursday,17/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,415,1,11:15,18:10,Friday,18/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,815,1,11:15,00:50,Friday,18/08/2023
+Aegean,Berlin (BER),Cairo (CAI),308,555,1,11:15,20:30,Friday,18/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Friday,18/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Friday,18/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Friday,18/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Friday,18/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Friday,18/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,710,2,12:15,00:05,Friday,18/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,710,2,12:15,00:05,Friday,18/08/2023
+Aegean,Berlin (BER),Cairo (CAI),442,535,2,15:55,00:50,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,415,1,13:00,19:55,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,770,1,13:00,01:50,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1130,1,07:00,01:50,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1145,1,13:00,08:05,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,655,1,14:55,01:50,Friday,18/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1030,1,14:55,08:05,Friday,18/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,340,1,13:50,19:30,Friday,18/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,380,1,18:50,01:10,Friday,18/08/2023
+Aegean,Berlin (BER),Cairo (CAI),202,885,1,17:15,08:00,Saturday,19/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,415,1,11:15,18:10,Saturday,19/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,455,1,17:15,00:50,Saturday,19/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,815,1,11:15,00:50,Saturday,19/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Saturday,19/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Saturday,19/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Saturday,19/08/2023
+Aegean,Berlin (BER),Cairo (CAI),366,555,1,11:15,20:30,Saturday,19/08/2023
+Air France,Berlin (BER),Cairo (CAI),373,1655,1,20:30,00:05,Saturday,19/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Saturday,19/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Saturday,19/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Saturday,19/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Saturday,19/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,375,1,19:35,01:50,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,415,1,13:00,19:55,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,555,1,10:40,19:55,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,655,1,14:55,01:50,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,750,1,19:35,08:05,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,770,1,13:00,01:50,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,775,1,07:00,19:55,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,910,1,10:40,01:50,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1030,1,14:55,08:05,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1130,1,07:00,01:50,Saturday,19/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1145,1,13:00,08:05,Saturday,19/08/2023
+Aegean,Berlin (BER),Cairo (CAI),202,455,1,17:15,00:50,Sunday,20/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,815,1,11:15,00:50,Sunday,20/08/2023
+Aegean,Berlin (BER),Cairo (CAI),308,555,1,11:15,20:30,Sunday,20/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Sunday,20/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Sunday,20/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Sunday,20/08/2023
+Air France,Berlin (BER),Cairo (CAI),373,1655,1,20:30,00:05,Sunday,20/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Sunday,20/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Sunday,20/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Sunday,20/08/2023
+Aegean,Berlin (BER),Cairo (CAI),442,480,2,16:50,00:50,Sunday,20/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,375,1,19:35,01:50,Sunday,20/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,555,1,10:40,19:55,Sunday,20/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,655,1,14:55,01:50,Sunday,20/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,750,1,19:35,08:05,Sunday,20/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,775,1,07:00,19:55,Sunday,20/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,910,1,10:40,01:50,Sunday,20/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1030,1,14:55,08:05,Sunday,20/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1130,1,07:00,01:50,Sunday,20/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1285,1,10:40,08:05,Sunday,20/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1460,1,19:35,19:55,Sunday,20/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),726,765,1,10:05,22:50,Sunday,20/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),726,1085,1,16:40,10:45,Sunday,20/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,900,1,20:30,11:30,Sunday,20/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,945,1,19:45,11:30,Sunday,20/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,455,1,17:15,00:50,Monday,21/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,885,1,17:15,08:00,Monday,21/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),239,470,1,19:10,03:00,Monday,21/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),239,940,1,11:20,03:00,Monday,21/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),239,1440,1,19:10,19:10,Monday,21/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Monday,21/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Monday,21/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Monday,21/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Monday,21/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Monday,21/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,710,2,12:15,00:05,Monday,21/08/2023
+Multiple airlines,Berlin (BER),Cairo (CAI),410,710,2,12:15,00:05,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,415,1,13:00,19:55,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,770,1,13:00,01:50,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1030,1,14:55,08:05,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1130,1,07:00,01:50,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1145,1,13:00,08:05,Monday,21/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1285,1,10:40,08:05,Monday,21/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,455,1,17:15,00:50,Tuesday,22/08/2023
+Aegean,Berlin (BER),Cairo (CAI),279,590,2,15:00,00:50,Tuesday,22/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),295,470,1,11:20,19:10,Tuesday,22/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Tuesday,22/08/2023
+Air France,Berlin (BER),Cairo (CAI),373,1655,1,20:30,00:05,Tuesday,22/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,765,1,10:05,22:50,Tuesday,22/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,1085,1,16:40,10:45,Tuesday,22/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),481,1465,1,16:40,17:05,Tuesday,22/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Tuesday,22/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Tuesday,22/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Tuesday,22/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Tuesday,22/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Tuesday,22/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Tuesday,22/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1030,1,14:55,08:05,Tuesday,22/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1130,1,07:00,01:50,Tuesday,22/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1285,1,10:40,08:05,Tuesday,22/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1460,1,19:35,19:55,Tuesday,22/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,900,1,20:30,11:30,Tuesday,22/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,945,1,19:45,11:30,Tuesday,22/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1005,1,18:45,11:30,Tuesday,22/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1235,1,14:55,11:30,Tuesday,22/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,340,1,13:50,19:30,Tuesday,22/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,380,1,18:50,01:10,Tuesday,22/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,400,1,12:50,19:30,Tuesday,22/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,415,1,11:15,18:10,Wednesday,23/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,815,1,11:15,00:50,Wednesday,23/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),239,470,1,19:10,03:00,Wednesday,23/08/2023
+Aegean,Berlin (BER),Cairo (CAI),286,555,1,11:15,20:30,Wednesday,23/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Wednesday,23/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Wednesday,23/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Wednesday,23/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Wednesday,23/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Wednesday,23/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Wednesday,23/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,765,1,10:05,22:50,Wednesday,23/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,1085,1,16:40,10:45,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,415,1,13:00,19:55,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,770,1,13:00,01:50,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1030,1,14:55,08:05,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1130,1,07:00,01:50,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1145,1,13:00,08:05,Wednesday,23/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1285,1,10:40,08:05,Wednesday,23/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,900,1,20:30,11:30,Wednesday,23/08/2023
+Aegean,Berlin (BER),Cairo (CAI),202,415,1,11:15,18:10,Thursday,24/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,455,1,17:15,00:50,Thursday,24/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,815,1,11:15,00:50,Thursday,24/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),267,470,1,11:20,19:10,Thursday,24/08/2023
+Aegean,Berlin (BER),Cairo (CAI),308,555,1,11:15,20:30,Thursday,24/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Thursday,24/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Thursday,24/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Thursday,24/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Thursday,24/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Thursday,24/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,24/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,1085,1,16:40,10:45,Thursday,24/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),481,1465,1,16:40,17:05,Thursday,24/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Thursday,24/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Thursday,24/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Thursday,24/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Thursday,24/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Thursday,24/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Thursday,24/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1030,1,14:55,08:05,Thursday,24/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1130,1,07:00,01:50,Thursday,24/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1285,1,10:40,08:05,Thursday,24/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1460,1,19:35,19:55,Thursday,24/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,340,1,13:50,19:30,Thursday,24/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,380,1,18:50,01:10,Thursday,24/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,415,1,11:15,18:10,Friday,25/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,815,1,11:15,00:50,Friday,25/08/2023
+Aegean,Berlin (BER),Cairo (CAI),306,535,2,15:55,00:50,Friday,25/08/2023
+Aegean,Berlin (BER),Cairo (CAI),308,555,1,11:15,20:30,Friday,25/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Friday,25/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Friday,25/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Friday,25/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Friday,25/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Friday,25/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Friday,25/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Friday,25/08/2023
+KLM,Berlin (BER),Cairo (CAI),442,900,2,09:05,00:05,Friday,25/08/2023
+KLM,Berlin (BER),Cairo (CAI),442,900,2,09:05,00:05,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,415,1,13:00,19:55,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,770,1,13:00,01:50,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1130,1,07:00,01:50,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1145,1,13:00,08:05,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,655,1,14:55,01:50,Friday,25/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1030,1,14:55,08:05,Friday,25/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),504,765,1,10:05,22:50,Friday,25/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,415,1,11:15,18:10,Saturday,26/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,455,1,17:15,00:50,Saturday,26/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,815,1,11:15,00:50,Saturday,26/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,885,1,17:15,08:00,Saturday,26/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Saturday,26/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Saturday,26/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Saturday,26/08/2023
+Aegean,Berlin (BER),Cairo (CAI),366,555,1,11:15,20:30,Saturday,26/08/2023
+Air France,Berlin (BER),Cairo (CAI),373,1655,1,20:30,00:05,Saturday,26/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Saturday,26/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Saturday,26/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,375,1,19:35,01:50,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,415,1,13:00,19:55,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,555,1,10:40,19:55,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,655,1,14:55,01:50,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,750,1,19:35,08:05,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,770,1,13:00,01:50,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,775,1,07:00,19:55,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,910,1,10:40,01:50,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1030,1,14:55,08:05,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1130,1,07:00,01:50,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1145,1,13:00,08:05,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1285,1,10:40,08:05,Saturday,26/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1460,1,19:35,19:55,Saturday,26/08/2023
+Aegean,Berlin (BER),Cairo (CAI),189,455,1,17:15,00:50,Sunday,27/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,815,1,11:15,00:50,Sunday,27/08/2023
+Aegean,Berlin (BER),Cairo (CAI),279,480,2,16:50,00:50,Sunday,27/08/2023
+Aegean,Berlin (BER),Cairo (CAI),308,555,1,11:15,20:30,Sunday,27/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Sunday,27/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Sunday,27/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Sunday,27/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Sunday,27/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Sunday,27/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Sunday,27/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Sunday,27/08/2023
+KLM,Berlin (BER),Cairo (CAI),442,900,2,09:05,00:05,Sunday,27/08/2023
+KLM,Berlin (BER),Cairo (CAI),442,900,2,09:05,00:05,Sunday,27/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,765,1,10:05,22:50,Sunday,27/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,1085,1,16:40,10:45,Sunday,27/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),481,1465,1,16:40,17:05,Sunday,27/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,375,1,19:35,01:50,Sunday,27/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,555,1,10:40,19:55,Sunday,27/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,655,1,14:55,01:50,Sunday,27/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,750,1,19:35,08:05,Sunday,27/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,775,1,07:00,19:55,Sunday,27/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,910,1,10:40,01:50,Sunday,27/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1030,1,14:55,08:05,Sunday,27/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1130,1,07:00,01:50,Sunday,27/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),496,1285,1,10:40,08:05,Sunday,27/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,455,1,17:15,00:50,Monday,28/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,885,1,17:15,08:00,Monday,28/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),239,470,1,19:10,03:00,Monday,28/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),239,1440,1,19:10,19:10,Monday,28/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Monday,28/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,525,1,15:20,00:05,Monday,28/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Monday,28/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,850,1,09:55,00:05,Monday,28/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Monday,28/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,575,2,14:30,00:05,Monday,28/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Monday,28/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Monday,28/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,800,2,10:45,00:05,Monday,28/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,800,2,10:45,00:05,Monday,28/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,800,2,10:45,00:05,Monday,28/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Monday,28/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Monday,28/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Monday,28/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Monday,28/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,1085,1,16:40,10:45,Monday,28/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Monday,28/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,415,1,13:00,19:55,Monday,28/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Monday,28/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Monday,28/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Monday,28/08/2023
+Aegean,Berlin (BER),Cairo (CAI),218,455,1,17:15,00:50,Tuesday,29/08/2023
+Aegean,Berlin (BER),Cairo (CAI),257,590,2,15:00,00:50,Tuesday,29/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),267,470,1,11:20,19:10,Tuesday,29/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Tuesday,29/08/2023
+Air France,Berlin (BER),Cairo (CAI),373,1655,1,20:30,00:05,Tuesday,29/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,765,1,10:05,22:50,Tuesday,29/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,1085,1,16:40,10:45,Tuesday,29/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),481,1465,1,16:40,17:05,Tuesday,29/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Tuesday,29/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Tuesday,29/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Tuesday,29/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Tuesday,29/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,775,1,07:00,19:55,Tuesday,29/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,910,1,10:40,01:50,Tuesday,29/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1030,1,14:55,08:05,Tuesday,29/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1130,1,07:00,01:50,Tuesday,29/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1285,1,10:40,08:05,Tuesday,29/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,1460,1,19:35,19:55,Tuesday,29/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,900,1,20:30,11:30,Tuesday,29/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,945,1,19:45,11:30,Tuesday,29/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1005,1,18:45,11:30,Tuesday,29/08/2023
+Swiss International Air Lines,Berlin (BER),Cairo (CAI),779,1235,1,14:55,11:30,Tuesday,29/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,340,1,13:50,19:30,Tuesday,29/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,380,1,18:50,01:10,Tuesday,29/08/2023
+Lufthansa,Berlin (BER),Cairo (CAI),781,400,1,12:50,19:30,Tuesday,29/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,415,1,11:15,18:10,Wednesday,30/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,815,1,11:15,00:50,Wednesday,30/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),239,470,1,19:10,03:00,Wednesday,30/08/2023
+Aegean,Berlin (BER),Cairo (CAI),308,555,1,11:15,20:30,Wednesday,30/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Wednesday,30/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,525,1,15:20,00:05,Wednesday,30/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Wednesday,30/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,850,1,09:55,00:05,Wednesday,30/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Wednesday,30/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Wednesday,30/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Wednesday,30/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,800,2,10:45,00:05,Wednesday,30/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,800,2,10:45,00:05,Wednesday,30/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,800,2,10:45,00:05,Wednesday,30/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Wednesday,30/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Wednesday,30/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Wednesday,30/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,765,1,10:05,22:50,Wednesday,30/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,1085,1,16:40,10:45,Wednesday,30/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Wednesday,30/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,415,1,13:00,19:55,Wednesday,30/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Wednesday,30/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Wednesday,30/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Wednesday,30/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,770,1,13:00,01:50,Wednesday,30/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,415,1,11:15,18:10,Thursday,31/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,455,1,17:15,00:50,Thursday,31/08/2023
+Aegean,Berlin (BER),Cairo (CAI),236,815,1,11:15,00:50,Thursday,31/08/2023
+LOT-Polish Airlines,Berlin (BER),Cairo (CAI),295,470,1,11:20,19:10,Thursday,31/08/2023
+Aegean,Berlin (BER),Cairo (CAI),308,555,1,11:15,20:30,Thursday,31/08/2023
+Egyptair,Berlin (BER),Cairo (CAI),336,245,0,15:45,19:50,Thursday,31/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,525,1,15:20,00:05,Thursday,31/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,715,1,12:10,00:05,Thursday,31/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,850,1,09:55,00:05,Thursday,31/08/2023
+Air France,Berlin (BER),Cairo (CAI),363,1070,1,06:15,00:05,Thursday,31/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,710,2,12:15,00:05,Thursday,31/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,800,2,10:45,00:05,Thursday,31/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,800,2,10:45,00:05,Thursday,31/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Thursday,31/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,900,2,09:05,00:05,Thursday,31/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,31/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,31/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,31/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,31/08/2023
+KLM,Berlin (BER),Cairo (CAI),393,1085,2,06:00,00:05,Thursday,31/08/2023
+Qatar Airways,Berlin (BER),Cairo (CAI),478,1085,1,16:40,10:45,Thursday,31/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,375,1,19:35,01:50,Thursday,31/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,555,1,10:40,19:55,Thursday,31/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,655,1,14:55,01:50,Thursday,31/08/2023
+Turkish Airlines,Berlin (BER),Cairo (CAI),491,750,1,19:35,08:05,Thursday,31/08/2023
